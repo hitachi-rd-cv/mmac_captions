@@ -101,5 +101,5 @@ The CMU-MMAC data used in this paper was obtained from http://kitchen.cs.cmu.edu
 
 This software is released under the MIT License, see [LICENSE.txt](LICENSE.txt).
 
-If you have questions, please contact to mmac-captions@rdgml.intra.hitachi.co.jp
+If you have questions, please contact to mmac-captions at rdgml.intra.hitachi.co.jp
 
