@@ -48,7 +48,7 @@ def convert_to_data_time_format_microsec(time_text):
     datetime value of "YY/MM/DD hh:mm:ss.000000"
     """
     time_cols = [int(txt) for txt in time_text.split('_')]
-# coding: utf-8
+    
     txt = '%02d:%02d:%02d' % (time_cols[0], time_cols[1], time_cols[2])
     d_sec = datetime.datetime.strptime(txt, '%H:%M:%S')
     # original is 7 digits after the decimal point,
