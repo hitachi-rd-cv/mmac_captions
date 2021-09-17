@@ -1,0 +1,31 @@
+[general]
+# path to timestamp of video first frame
+video_head_timestamp_path = "../data/mmac/timestamp_of_video_head.csv"
+# frequency of resmaping raw data
+sampling_frequency = 30
+
+# Settings for resampling_sensor_raw_data.py
+[resampling]
+# path to root of CMU-MMAC sensor data
+sensor_original_data_root_path = "../data/cmu_sensor_data"
+# path to used sensor raw files list
+sensor_files_list_path = "../data/mmac/sensor_files_list.tsv"
+# used columns by their order
+use_columns = [
+    "Accel_X", "Accel_Y" , "Accel_Z", "Roll" , "Pitch" , "Yaw",
+    "Mag_X", "Mag_Y", "Mag_Z"
+]
+# column name of time stamp in  (for this dataset)
+timestamp_col_name = "timestamp"
+# path to output of sensor resampling
+output_sensor_resample_data_path = "../data/mmac_processed/default/sensor_resampling"
+# path to output of process to concatenate columns of sensor raw data
+output_sensor_col_concat_path = "../data/mmac_processed/default/sensor_col_concat"
+
+# Settings for sensor_selected_timestamp.py
+[selected_timestamp]
+# output of sensor date resampling and colunms concatenate.
+input_sensor_data_dir = "../data/mmac_processed/default/sensor_col_concat"
+# output of sensor feature of selected timestamp such that
+# after video head timestamp
+output_data_dir = "../data/mmac_processed/default/sensor_selected_timestamp"
