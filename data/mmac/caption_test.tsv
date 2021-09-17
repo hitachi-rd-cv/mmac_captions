@@ -1,0 +1,1242 @@
+record_no	video_id	vid	start_time	end_time	start_frame	end_frame	caption
+3761	S40_Salad_7150991-195	f120_i002_a00	21.0	22.0	630	690	opening a fridge .
+3762	S30_Eggs_7150991-1	f79_i013_a00	62.0	65.0	1860	1980	turning on a gas stove .
+3763	S30_Brownie_7150991-1	f78_i032_a00	165.0	168.0	4950	5070	putting a bag of brownie mix into a box .
+3764	S32_Salad_7150991-1	f90_i035_a00	371.0	374.0	11130	11250	pouring dressing on a salad .
+3765	S28_Eggs_7150991-1	f69_i002_a00	16.0	17.0	480	540	opening a cabinet .
+3766	S36_Eggs_7150991-543	f108_i021_a00	168.0	171.0	5040	5160	taking an oil bottle from a base cabinet .
+3767	S36_Pizza_7150991-355	f109_i036_a00	503.0	543.0	15090	16320	adjusting the shape of pizza crust .
+3768	S40_Salad_7150991-195	f120_i021_a00	143.0	150.0	4290	4530	taking ingredients from a fridge .
+3769	S36_Eggs_7150991-543	f108_i016_a00	145.0	148.0	4350	4470	opening a salt bottle .
+3770	S29_Brownie_7150991-1	f73_i024_a00	129.0	131.0	3870	3960	taking a fork from a drawer .
+3771	S32_Pizza_7150991-1	f89_i016_a00	164.0	171.0	4920	5160	stretching pizza crust with hands .
+3772	S09_Brownie_7150991-1653	f09_i038_a00	255.0	336.0	7650	10110	mixing the ingredients of brownie in a big bowl with a fork .
+3773	S32_Pizza_7150991-1	f89_i044_a00	536.0	548.0	16080	16470	putting pepperoni slices on pizza crust .
+3774	S28_Eggs_7150991-1	f69_i022_a00	97.0	98.0	2910	2970	putting a pepper bottle into a cabinet .
+3775	S36_Eggs_7150991-543	f108_i017_a00	148.0	154.0	4440	4650	sprinkling salt on eggs in a big bowl .
+3776	S16_Sandwich_7150991-1075	f38_i023_a00	145.0	149.0	4350	4500	cutting a sandwich in half with a butter knife .
+3777	S34_Pizza_7150991-240	f99_i019_a00	243.0	253.0	7290	7620	opening a package of a block cheese .
+3778	S12_Sandwich_7150991-2470	f20_i023_a00	156.0	157.0	4680	4740	scooping out blueberry jam from a jar with a butter knife .
+3779	S29_Eggs_7150991-1	f74_i018_a00	62.0	63.0	1860	1920	taking a spatula from a drawer .
+3780	S28_Eggs_7150991-1	f69_i021_a00	95.0	96.0	2850	2910	closing a pepper bottle .
+3781	S47_Eggs_7150991-201	f128_i017_a00	70.0	74.0	2100	2250	cracking an egg into a big bowl .
+3782	S12_Brownie_7150991-1306	f16_i016_a00	102.0	103.0	3060	3120	taking a fork from a drawer .
+3783	S36_Eggs_7150991-543	f108_i026_a00	188.0	190.0	5640	5730	taking a spatula from a drawer .
+3784	S34_Pizza_7150991-240	f99_i025_a00	294.0	404.0	8820	12150	grating a block cheese onto pizza crust with a cheese grater .
+3785	S40_Eggs_7150991-185	f118_i031_a00	195.0	210.0	5850	6330	stirring eggs in a frying pan with a spatula .
+3786	S32_Brownie_7150991-1	f87_i009_a00	61.0	63.0	1830	1920	putting eggs on a counter .
+3787	S29_Eggs_7150991-1	f74_i011_a00	43.0	47.0	1290	1440	cracking an egg into a big bowl .
+3788	S40_Eggs_7150991-185	f118_i023_a00	148.0	150.0	4440	4530	opening a salt bottle .
+3789	S07_Pizza_7150991-1884	f02_i016_a00	156.0	169.0	4680	5100	slicing a pepperoni stick with a kitchen knife .
+3790	S32_Pizza_7150991-1	f89_i029_a00	306.0	311.0	9180	9360	spreading grated cheese on pizza crust .
+3791	S09_Salad_7150991-1874	f12_i023_a00	236.0	239.0	7080	7200	pouring dressing on a salad .
+3792	S12_Sandwich_7150991-2470	f20_i021_a00	149.0	152.0	4470	4590	scooping out blueberry jam from a jar with a butter knife .
+3793	S36_Eggs_7150991-543	f108_i008_a00	58.0	61.0	1740	1860	taking an egg from an egg carton .
+3794	S08_Pizza_7150991-563	f06_i038_a00	424.0	434.0	12720	13050	pressing the buttons on an oven .
+3795	S12_Brownie_7150991-1306	f16_i045_a00	447.0	450.0	13410	13530	hitting a fork against a big bowl .
+3796	S09_Brownie_7150991-1653	f09_i052_a00	416.0	432.0	12480	12990	pressing the buttons on an oven .
+3797	S09_Salad_7150991-1874	f12_i008_a00	74.0	84.0	2220	2550	peeling a carrot with a peeler .
+3798	S09_Brownie_7150991-1653	f09_i003_a00	25.0	27.0	750	840	taking a small measuring cup from a cabinet .
+3799	S16_Sandwich_7150991-1075	f38_i019_a00	115.0	117.0	3450	3540	opening a blueberry jam jar .
+3800	S36_Pizza_7150991-355	f109_i011_a00	78.0	87.0	2340	2640	unrolling pizza crust on a baking pan .
+3801	S30_Brownie_7150991-1	f78_i009_a00	45.0	47.0	1350	1440	pouring water into a big bowl .
+3802	S09_Pizza_7150991-1072	f11_i001_a00	9.0	11.0	270	360	taking a cheese grater from a base cabinet .
+3803	S40_Salad_7150991-195	f120_i009_a00	69.0	71.0	2070	2160	taking a kitchen knife from a drawer .
+3804	S40_Salad_7150991-195	f120_i034_a00	242.0	247.0	7260	7440	putting zucchini slices into a bowl .
+3805	S12_Brownie_7150991-1306	f16_i023_a00	161.0	163.0	4830	4920	twisting off an oil bottle cap .
+3806	S12_Sandwich_7150991-2470	f20_i011_a00	68.0	74.0	2040	2250	taking slices of bread out of a bag .
+3807	S12_Brownie_7150991-1306	f16_i051_a00	499.0	504.0	14970	15150	putting a baking pan into an oven .
+3808	S28_Brownie_7150991-1	f68_i015_a00	78.0	82.0	2340	2490	cracking an egg into a big bowl .
+3809	S28_Eggs_7150991-1	f69_i028_a00	117.0	164.0	3510	4950	beating eggs with a whisk .
+3810	S13_Sandwich_7150991-863	f24_i031_a00	196.0	198.0	5880	5970	putting jars into a fridge .
+3811	S30_Brownie_7150991-1	f78_i050_a00	310.0	312.0	9300	9390	closing an oven .
+3812	S29_Eggs_7150991-1	f74_i003_a00	15.0	16.0	450	510	taking a big big bowl from a cabinet .
+3813	S12_Brownie_7150991-1306	f16_i003_a00	25.0	27.0	750	840	taking a small measuring cup from a cabinet .
+3814	S08_Pizza_7150991-563	f06_i004_a00	30.0	32.0	900	990	taking a cheese grater from a base cabinet .
+3815	S29_Sandwich_7150991-1	f77_i005_a00	22.0	24.0	660	750	untying a bag of sliced bread .
+3816	S29_Sandwich_7150991-1	f77_i008_a00	32.0	33.0	960	1020	putting slices of bread on a paper plate .
+3817	S07_Salad_7150991-2095	f03_i010_a00	129.0	139.0	3870	4200	cutting a carrot into a bowl with a kitchen knife .
+3818	S13_Sandwich_7150991-863	f24_i007_a00	39.0	40.0	1170	1230	opening a cabinet .
+3819	S28_Eggs_7150991-1	f69_i004_a00	21.0	22.0	630	690	putting eggs on a counter .
+3820	S29_Brownie_7150991-1	f73_i017_a00	87.0	88.0	2610	2670	opening a drawer .
+3821	S13_Sandwich_7150991-863	f24_i010_a00	56.0	69.0	1680	2100	twisting off a twist tie from a bag of sliced bread .
+3822	S30_Sandwich_7150991-1	f81_i012_a00	49.0	59.0	1470	1800	tying a bag of sliced bread .
+3823	S32_Salad_7150991-1	f90_i022_a00	228.0	230.0	6840	6930	taking a celery head out of a bag .
+3824	S09_Brownie_7150991-1653	f09_i015_a00	100.0	114.0	3000	3450	pouring oil into a small measuring cup .
+3825	S28_Eggs_7150991-1	f69_i030_a00	175.0	191.0	5250	5760	pouring beaten eggs into a frying pan .
+3826	S30_Sandwich_7150991-1	f81_i000_a00	9.0	10.0	270	330	opening a fridge .
+3827	S30_Brownie_7150991-1	f78_i039_a00	234.0	235.0	7020	7080	opening a base cabinet .
+3828	S47_Eggs_7150991-201	f128_i036_a00	350.0	356.0	10500	10710	putting scrambled eggs on a paper plate .
+3829	S36_Eggs_7150991-543	f108_i019_a00	161.0	165.0	4830	4980	swirling eggs around in a big bowl .
+3830	S29_Sandwich_7150991-1	f77_i010_a00	39.0	41.0	1170	1260	opening a peanut butter jar .
+3831	S36_Eggs_7150991-543	f108_i036_a00	421.0	435.0	12630	13080	putting scrambled eggs on a paper plate .
+3832	S32_Salad_7150991-1	f90_i020_a00	170.0	215.0	5100	6480	cutting a carrot with a kitchen knife .
+3833	S09_Brownie_7150991-1653	f09_i046_a00	364.0	366.0	10920	11010	putting a cooking spray into a base cabinet .
+3834	S07_Brownie_7150991-1431	f00_i018_a00	116.0	123.0	3480	3720	pouring oil into a big bowl .
+3835	S28_Brownie_7150991-1	f68_i022_a00	129.0	158.0	3870	4770	pouring brownie mix into a big bowl .
+3836	S16_Sandwich_7150991-1075	f38_i025_a00	154.0	155.0	4620	4680	closing a blueberry jam jar .
+3837	S07_Brownie_7150991-1431	f00_i005_a00	39.0	40.0	1170	1230	opening a fridge .
+3838	S40_Salad_7150991-195	f120_i000_a00	12.0	15.0	360	480	taking a bowl from a cabinet .
+3839	S29_Brownie_7150991-1	f73_i009_a00	51.0	55.0	1530	1680	taking an oil bottle from a base cabinet .
+3840	S40_Eggs_7150991-185	f118_i012_a00	64.0	66.0	1920	2010	opening a base cabinet .
+3841	S32_Salad_7150991-1	f90_i009_a00	59.0	60.0	1770	1830	taking a bag of celery from the left of a counter .
+3842	S32_Salad_7150991-1	f90_i015_a00	90.0	100.0	2700	3030	taking leaves off a lettuce head .
+3843	S28_Brownie_7150991-1	f68_i032_a00	307.0	310.0	9210	9330	putting a cooking spray into a base cabinet .
+3844	S32_Brownie_7150991-1	f87_i022_a00	128.0	130.0	3840	3930	twisting off an oil bottle cap .
+3845	S08_Pizza_7150991-563	f06_i034_a00	392.0	402.0	11760	12090	slicing a pepperoni stick with a kitchen knife .
+3846	S29_Sandwich_7150991-1	f77_i011_a00	42.0	43.0	1260	1320	opening a blueberry jam jar .
+3847	S09_Salad_7150991-1874	f12_i021_a00	218.0	230.0	6540	6930	putting celery stalk slices into a bowl .
+3848	S30_Eggs_7150991-1	f79_i032_a00	162.0	165.0	4860	4980	taking a paper plate from a cabinet .
+3849	S28_Brownie_7150991-1	f68_i033_a00	314.0	372.0	9420	11190	pouring brownie batter into a baking pan with a whisk .
+3850	S07_Pizza_7150991-1884	f02_i017_a00	170.0	176.0	5100	5310	putting pepperoni slices on pizza crust .
+3851	S36_Eggs_7150991-543	f108_i030_a00	235.0	240.0	7050	7230	pouring away the oil in a frying pan into a sink .
+3852	S36_Pizza_7150991-355	f109_i016_a00	126.0	151.0	3780	4560	scooping out tomato sauce from a jar with a spoon .
+3853	S30_Eggs_7150991-1	f79_i023_a00	93.0	109.0	2790	3300	beating eggs with a whisk .
+3854	S09_Salad_7150991-1874	f12_i016_a00	173.0	176.0	5190	5310	putting a zucchini into a bag .
+3855	S28_Brownie_7150991-1	f68_i009_a00	46.0	48.0	1380	1470	taking an oil bottle from a base cabinet .
+3856	S30_Sandwich_7150991-1	f81_i018_a00	100.0	101.0	3000	3060	rubbing a butter knife against a slice of bread .
+3857	S08_Pizza_7150991-563	f06_i009_a00	55.0	66.0	1650	2010	pushing the middle of a pizza crust can with fingers .
+3858	S09_Salad_7150991-1874	f12_i015_a00	163.0	172.0	4890	5190	putting zucchini slices into a bowl .
+3859	S08_Pizza_7150991-563	f06_i018_a00	146.0	196.0	4380	5910	spreading tomato sauce on pizza crust with a spoon .
+3860	S36_Pizza_7150991-355	f109_i024_a00	225.0	228.0	6750	6870	cutting the package of a block cheese with a kitchen knife .
+3861	S32_Eggs_7150991-1	f88_i021_a00	111.0	114.0	3330	3450	sprinkling pepper on eggs in a big bowl .
+3862	S09_Brownie_7150991-1653	f09_i029_a00	187.0	192.0	5610	5790	mixing the ingredients of brownie in a big bowl with a fork .
+3863	S11_Salad_7150991-825	f15_i020_a00	201.0	206.0	6030	6210	tossing a salad with a kitchen knife .
+3864	S30_Eggs_7150991-1	f79_i006_a00	30.0	32.0	900	990	taking a whisk from a drawer .
+3865	S40_Eggs_7150991-185	f118_i003_a00	23.0	26.0	690	810	putting eggs on a counter .
+3866	S32_Salad_7150991-1	f90_i037_a00	379.0	384.0	11370	11550	putting a dressing bottle into a fridge .
+3867	S28_Eggs_7150991-1	f69_i027_a00	114.0	116.0	3420	3510	taking a whisk from a drawer .
+3868	S34_Pizza_7150991-240	f99_i010_a00	132.0	149.0	3960	4500	stretching pizza crust with hands .
+3869	S07_Brownie_7150991-1431	f00_i002_a00	26.0	29.0	780	900	taking a big measuring cup from a cabinet .
+3870	S29_Brownie_7150991-1	f73_i032_a00	225.0	229.0	6750	6900	spraying oil on a baking pan .
+3871	S28_Eggs_7150991-1	f69_i000_a00	9.0	10.0	270	330	opening a fridge .
+3872	S32_Pizza_7150991-1	f89_i017_a00	172.0	175.0	5160	5280	taking a spoon from a drawer .
+3873	S36_Pizza_7150991-355	f109_i006_a00	34.0	39.0	1020	1200	turning a pizza crust can .
+3874	S08_Pizza_7150991-563	f06_i028_a00	281.0	288.0	8430	8670	squeezing a block cheese out of a package .
+3875	S32_Eggs_7150991-1	f88_i001_a00	11.0	14.0	330	450	taking a frying pan from a cabinet .
+3876	S16_Sandwich_7150991-1075	f38_i000_a00	6.0	8.0	180	270	taking a paper plate from a cabinet .
+3877	S34_Pizza_7150991-240	f99_i028_a00	419.0	421.0	12570	12660	taking a pepperoni stick from a fridge .
+3878	S34_Pizza_7150991-240	f99_i000_a00	12.0	17.0	360	540	taking a baking pan out of an oven .
+3879	S29_Brownie_7150991-1	f73_i015_a00	79.0	81.0	2370	2460	taking an egg from an egg carton .
+3880	S28_Sandwich_7150991-1	f72_i005_a00	24.0	26.0	720	810	taking a paper plate from a cabinet .
+3881	S40_Eggs_7150991-185	f118_i002_a00	21.0	23.0	630	720	closing a fridge .
+3882	S07_Pizza_7150991-1884	f02_i026_a00	217.0	222.0	6510	6690	pressing the buttons on an oven .
+3883	S36_Eggs_7150991-543	f108_i000_a00	9.0	18.0	270	570	turning on a gas stove .
+3884	S08_Pizza_7150991-563	f06_i033_a00	363.0	390.0	10890	11730	putting pepperoni slices on pizza crust .
+3885	S28_Eggs_7150991-1	f69_i017_a00	74.0	76.0	2220	2310	wiping hands with a towel .
+3886	S08_Pizza_7150991-563	f06_i026_a00	249.0	255.0	7470	7680	opening a package of a block cheese .
+3887	S07_Pizza_7150991-1884	f02_i012_a00	119.0	122.0	3570	3690	taking a block cheese out of a package .
+3888	S12_Sandwich_7150991-2470	f20_i030_a00	190.0	191.0	5700	5760	opening a fridge .
+3889	S08_Pizza_7150991-563	f06_i039_a00	435.0	441.0	13050	13260	putting a baking pan into an oven .
+3890	S12_Brownie_7150991-1306	f16_i033_a00	228.0	230.0	6840	6930	taking a bag of brownie mix out of a box .
+3891	S11_Salad_7150991-825	f15_i019_a00	190.0	200.0	5700	6030	cutting a celery stalk into a bowl with a kitchen knife .
+3892	S32_Eggs_7150991-1	f88_i030_a00	274.0	276.0	8220	8310	turning off a gas stove .
+3893	S32_Eggs_7150991-1	f88_i031_a00	277.0	280.0	8310	8430	putting scrambled eggs on a paper plate .
+3894	S07_Salad_7150991-2095	f03_i014_a00	177.0	186.0	5310	5610	slicing a zucchini into a bowl with a kitchen knife .
+3895	S16_Sandwich_7150991-1075	f38_i006_a00	25.0	34.0	750	1050	twisting off a twist tie from a bag of sliced bread .
+3896	S09_Brownie_7150991-1653	f09_i036_a00	249.0	252.0	7470	7590	mixing the ingredients of brownie in a big bowl with a fork .
+3897	S12_Sandwich_7150991-2470	f20_i024_a00	158.0	164.0	4740	4950	spreading blueberry jam on a slice of bread with a butter knife .
+3898	S09_Brownie_7150991-1653	f09_i017_a00	125.0	127.0	3750	3840	putting a cap on an oil bottle .
+3899	S09_Brownie_7150991-1653	f09_i024_a00	165.0	166.0	4950	5010	opening a drawer .
+3900	S30_Pizza_7150991-1	f80_i008_a00	86.0	106.0	2580	3210	cutting the surface of a pizza crust can with a kitchen knife .
+3901	S07_Pizza_7150991-1884	f02_i004_a00	39.0	42.0	1170	1290	putting ingredients on a counter .
+3902	S28_Salad_7150991-1	f71_i021_a00	304.0	307.0	9120	9240	cutting zucchini slices with a kitchen knife .
+3903	S29_Eggs_7150991-1	f74_i010_a00	35.0	38.0	1050	1170	taking eggs from an egg carton .
+3904	S28_Brownie_7150991-1	f68_i034_a00	378.0	382.0	11340	11490	tilting a baking pan .
+3905	S11_Salad_7150991-825	f15_i022_a00	217.0	219.0	6510	6600	taking a bag of croutons from a cabinet .
+3906	S30_Brownie_7150991-1	f78_i024_a00	124.0	127.0	3720	3840	taking a bag of brownie mix out of a box .
+3907	S08_Pizza_7150991-563	f06_i002_a00	24.0	28.0	720	870	putting ingredients on a counter .
+3908	S09_Pizza_7150991-1072	f11_i000_a00	7.0	9.0	210	300	opening a base cabinet .
+3909	S12_Brownie_7150991-1306	f16_i040_a00	414.0	415.0	12420	12480	taking a cap off a cooking spray .
+3910	S28_Eggs_7150991-1	f69_i023_a00	98.0	99.0	2940	3000	taking a salt bottle from a cabinet .
+3911	S09_Pizza_7150991-1072	f11_i035_a00	304.0	307.0	9120	9240	peeling a casing off a pepperoni slice .
+3912	S30_Brownie_7150991-1	f78_i046_a00	263.0	269.0	7890	8100	stirring brownie batter with a whisk .
+3913	S11_Salad_7150991-825	f15_i007_a00	71.0	80.0	2130	2430	taking a zucchini out of a bag .
+3914	S28_Salad_7150991-1	f71_i019_a00	291.0	292.0	8730	8790	putting a zucchini into a bag .
+3915	S47_Eggs_7150991-201	f128_i012_a00	50.0	53.0	1500	1620	putting eggs on a counter .
+3916	S30_Eggs_7150991-1	f79_i016_a00	70.0	73.0	2100	2220	sprinkling salt on eggs in a big bowl .
+3917	S29_Sandwich_7150991-1	f77_i022_a00	93.0	95.0	2790	2880	scooping out blueberry jam from a jar with a butter knife .
+3918	S32_Pizza_7150991-1	f89_i026_a00	253.0	261.0	7590	7860	opening a package of a block cheese .
+3919	S28_Brownie_7150991-1	f68_i000_a00	8.0	9.0	240	300	opening a fridge .
+3920	S40_Eggs_7150991-185	f118_i028_a00	176.0	177.0	5280	5340	opening a drawer .
+3921	S16_Sandwich_7150991-1075	f38_i002_a00	13.0	15.0	390	480	taking a butter knife from a drawer .
+3922	S40_Salad_7150991-195	f120_i016_a00	117.0	120.0	3510	3630	putting celery stalk slices into a bowl .
+3923	S29_Sandwich_7150991-1	f77_i012_a00	47.0	48.0	1410	1470	scooping out peanut butter from a jar with a butter knife .
+3924	S28_Salad_7150991-1	f71_i025_a00	334.0	339.0	10020	10200	taking a celery stalk out of a bag .
+3925	S32_Eggs_7150991-1	f88_i017_a00	82.0	87.0	2460	2640	cracking an egg into a big bowl .
+3926	S29_Sandwich_7150991-1	f77_i023_a00	97.0	102.0	2910	3090	spreading blueberry jam on a slice of bread with a butter knife .
+3927	S12_Sandwich_7150991-2470	f20_i006_a00	39.0	40.0	1170	1230	taking a jar from a fridge .
+3928	S32_Pizza_7150991-1	f89_i045_a00	550.0	553.0	16500	16620	taking a pepperoni stick a little out of a package .
+3929	S12_Brownie_7150991-1306	f16_i017_a00	103.0	104.0	3090	3150	closing a drawer .
+3930	S12_Brownie_7150991-1306	f16_i044_a00	440.0	446.0	13200	13410	stirring brownie batter with a fork .
+3931	S32_Pizza_7150991-1	f89_i007_a00	45.0	50.0	1350	1530	putting ingredients on a counter .
+3932	S36_Eggs_7150991-543	f108_i005_a00	32.0	35.0	960	1080	taking a frying pan from a cabinet .
+3933	S09_Pizza_7150991-1072	f11_i005_a00	25.0	27.0	750	840	putting ingredients on a counter .
+3934	S09_Salad_7150991-1874	f12_i017_a00	179.0	189.0	5370	5700	taking a celery head halfway out of a bag .
+3935	S29_Eggs_7150991-1	f74_i020_a00	71.0	77.0	2130	2340	sprinkling pepper on eggs in a big bowl .
+3936	S07_Brownie_7150991-1431	f00_i031_a00	256.0	260.0	7680	7830	opening a base cabinet .
+3937	S32_Eggs_7150991-1	f88_i024_a00	137.0	142.0	4110	4290	pouring beaten eggs into a frying pan .
+3938	S40_Eggs_7150991-185	f118_i007_a00	38.0	43.0	1140	1320	cracking an egg into a big bowl .
+3939	S30_Pizza_7150991-1	f80_i029_a00	355.0	402.0	10650	12090	peeling casings off pepperoni slices .
+3940	S07_Brownie_7150991-1431	f00_i032_a00	260.0	276.0	7800	8310	spraying oil into a baking pan .
+3941	S32_Brownie_7150991-1	f87_i035_a00	282.0	287.0	8460	8640	putting a baking pan into an oven .
+3942	S29_Brownie_7150991-1	f73_i022_a00	123.0	125.0	3690	3780	taking a bag of brownie mix out of a box .
+3943	S07_Brownie_7150991-1431	f00_i029_a00	205.0	246.0	6150	7410	mixing the ingredients of brownie in a big bowl with a fork .
+3944	S07_Pizza_7150991-1884	f02_i020_a00	183.0	186.0	5490	5610	slicing a pepperoni stick with a kitchen knife .
+3945	S16_Sandwich_7150991-1075	f38_i027_a00	160.0	162.0	4800	4890	putting jars into a fridge .
+3946	S29_Sandwich_7150991-1	f77_i026_a00	112.0	114.0	3360	3450	putting a slice of bread on top of another slice of bread .
+3947	S28_Eggs_7150991-1	f69_i011_a00	41.0	42.0	1230	1290	putting a cap on an oil bottle .
+3948	S30_Brownie_7150991-1	f78_i002_a00	24.0	25.0	720	780	closing a fridge .
+3949	S40_Eggs_7150991-185	f118_i004_a00	28.0	31.0	840	960	taking a big bowl from a cabinet .
+3950	S13_Sandwich_7150991-863	f24_i032_a00	199.0	200.0	5970	6030	closing a fridge .
+3951	S28_Brownie_7150991-1	f68_i012_a00	62.0	69.0	1860	2100	pouring oil into a small measuring cup .
+3952	S32_Brownie_7150991-1	f87_i028_a00	219.0	220.0	6570	6630	opening a base cabinet .
+3953	S47_Eggs_7150991-201	f128_i013_a00	54.0	56.0	1620	1710	opening a cabinet .
+3954	S12_Sandwich_7150991-2470	f20_i020_a00	145.0	146.0	4350	4410	opening a blueberry jam jar .
+3955	S07_Salad_7150991-2095	f03_i000_a00	38.0	42.0	1140	1290	taking a bowl from a cabinet .
+3956	S30_Brownie_7150991-1	f78_i042_a00	246.0	248.0	7380	7470	spraying oil on a baking pan .
+3957	S47_Eggs_7150991-201	f128_i007_a00	30.0	34.0	900	1050	putting a cap on an oil bottle .
+3958	S29_Sandwich_7150991-1	f77_i015_a00	53.0	60.0	1590	1830	spreading peanut butter on a slice of bread with a butter knife .
+3959	S36_Pizza_7150991-355	f109_i017_a00	152.0	175.0	4560	5280	spreading tomato sauce on pizza crust with a spoon .
+3960	S07_Brownie_7150991-1431	f00_i021_a00	145.0	149.0	4350	4500	opening a box of brownie mix .
+3961	S36_Pizza_7150991-355	f109_i029_a00	292.0	308.0	8760	9270	grating a block cheese on a cutting board with a cheese grater .
+3962	S36_Pizza_7150991-355	f109_i037_a00	550.0	560.0	16500	16830	putting a baking pan into an oven .
+3963	S32_Eggs_7150991-1	f88_i022_a00	115.0	124.0	3450	3750	beating eggs with a whisk .
+3964	S30_Pizza_7150991-1	f80_i033_a00	421.0	423.0	12630	12720	closing an oven .
+3965	S07_Brownie_7150991-1431	f00_i008_a00	46.0	48.0	1380	1470	walking to a counter .
+3966	S29_Eggs_7150991-1	f74_i016_a00	60.0	61.0	1800	1860	opening a drawer .
+3967	S47_Eggs_7150991-201	f128_i025_a00	93.0	95.0	2790	2880	opening a drawer .
+3968	S12_Brownie_7150991-1306	f16_i001_a00	18.0	20.0	540	630	taking a cooking spray from a base cabinet .
+3969	S08_Pizza_7150991-563	f06_i025_a00	232.0	247.0	6960	7440	grating a block cheese onto pizza crust with a cheese grater .
+3970	S08_Pizza_7150991-563	f06_i037_a00	418.0	420.0	12540	12630	putting pepperoni slices on pizza crust .
+3971	S09_Brownie_7150991-1653	f09_i031_a00	198.0	202.0	5940	6090	mixing the ingredients of brownie in a big bowl with a fork .
+3972	S09_Salad_7150991-1874	f12_i022_a00	233.0	234.0	6990	7050	shaking a dressing bottle .
+3973	S40_Salad_7150991-195	f120_i003_a00	25.0	30.0	750	930	taking ingredients from a fridge .
+3974	S29_Eggs_7150991-1	f74_i023_a00	93.0	95.0	2790	2880	putting a frying pan on a gas stove .
+3975	S11_Salad_7150991-825	f15_i018_a00	175.0	187.0	5250	5640	tearing a celery stalk off a celery head .
+3976	S09_Pizza_7150991-1072	f11_i024_a00	188.0	191.0	5640	5760	taking a paper towel from a paper towel roll .
+3977	S28_Salad_7150991-1	f71_i030_a00	403.0	406.0	12090	12210	twisting off a dressing bottle cap .
+3978	S40_Salad_7150991-195	f120_i015_a00	107.0	116.0	3210	3510	cutting a celery stalk with a kitchen knife .
+3979	S07_Salad_7150991-2095	f03_i019_a00	224.0	227.0	6720	6840	putting a celery stalk into a bag .
+3980	S09_Salad_7150991-1874	f12_i010_a00	100.0	106.0	3000	3210	putting carrot slices into a bowl .
+3981	S47_Eggs_7150991-201	f128_i000_a00	12.0	14.0	360	450	opening a cabinet .
+3982	S32_Salad_7150991-1	f90_i024_a00	235.0	263.0	7050	7920	cutting a celery stalk with a kitchen knife .
+3983	S40_Eggs_7150991-185	f118_i033_a00	292.0	293.0	8760	8820	opening a cabinet .
+3984	S09_Salad_7150991-1874	f12_i004_a00	44.0	57.0	1320	1740	taking leaves from a lettuce head into a bowl .
+3985	S32_Pizza_7150991-1	f89_i012_a00	89.0	110.0	2670	3330	unrolling pizza crust on a baking pan .
+3986	S34_Pizza_7150991-240	f99_i008_a00	88.0	106.0	2640	3210	opening a pizza crust can with hands .
+3987	S40_Salad_7150991-195	f120_i005_a00	34.0	35.0	1020	1080	putting ingredients on a counter .
+3988	S32_Pizza_7150991-1	f89_i000_a00	9.0	11.0	270	360	opening an oven .
+3989	S36_Eggs_7150991-543	f108_i002_a00	21.0	24.0	630	750	taking an egg carton from a fridge .
+3990	S11_Salad_7150991-825	f15_i011_a00	125.0	130.0	3750	3930	putting a zucchini into a bag .
+3991	S32_Brownie_7150991-1	f87_i014_a00	80.0	84.0	2400	2550	opening a bag of brownie mix .
+3992	S28_Sandwich_7150991-1	f72_i017_a00	116.0	122.0	3480	3690	scooping out blueberry jam from a jar with a butter knife .
+3993	S28_Sandwich_7150991-1	f72_i021_a00	182.0	184.0	5460	5550	closing a blueberry jam jar .
+3994	S30_Brownie_7150991-1	f78_i040_a00	236.0	239.0	7080	7200	taking a cooking spray from a base cabinet .
+3995	S13_Sandwich_7150991-863	f24_i024_a00	138.0	154.0	4140	4650	spreading blueberry jam on a slice of bread with a butter knife .
+3996	S30_Brownie_7150991-1	f78_i041_a00	240.0	243.0	7200	7320	taking a cap off a cooking spray .
+3997	S30_Eggs_7150991-1	f79_i031_a00	140.0	148.0	4200	4470	pouring beaten eggs into a frying pan .
+3998	S30_Sandwich_7150991-1	f81_i007_a00	26.0	27.0	780	840	opening a base cabinet .
+3999	S07_Pizza_7150991-1884	f02_i018_a00	177.0	181.0	5310	5460	slicing a pepperoni stick with a kitchen knife .
+4000	S12_Brownie_7150991-1306	f16_i026_a00	179.0	182.0	5370	5490	putting an oil bottle into a base cabinet .
+4001	S29_Brownie_7150991-1	f73_i023_a00	128.0	129.0	3840	3900	opening a drawer .
+4002	S40_Salad_7150991-195	f120_i023_a00	154.0	156.0	4620	4710	putting ingredients on a counter .
+4003	S29_Brownie_7150991-1	f73_i034_a00	236.0	257.0	7080	7740	pouring brownie batter into a baking pan with a whisk .
+4004	S40_Eggs_7150991-185	f118_i021_a00	126.0	140.0	3780	4230	beating eggs with a whisk .
+4005	S12_Brownie_7150991-1306	f16_i047_a00	454.0	466.0	13620	14010	pouring brownie batter into a baking pan .
+4006	S29_Eggs_7150991-1	f74_i005_a00	21.0	23.0	630	720	taking a paper plate from a cabinet .
+4007	S28_Salad_7150991-1	f71_i026_a00	341.0	380.0	10230	11430	cutting a celery stalk with a kitchen knife .
+4008	S32_Brownie_7150991-1	f87_i029_a00	220.0	225.0	6600	6780	taking a cooking spray from a base cabinet .
+4009	S47_Eggs_7150991-201	f128_i002_a00	18.0	20.0	540	630	putting a frying pan on a gas stove .
+4010	S34_Pizza_7150991-240	f99_i026_a00	412.0	414.0	12360	12450	taking a block cheese from the corner of a counter .
+4011	S09_Salad_7150991-1874	f12_i012_a00	113.0	116.0	3390	3510	taking a zucchini out of a bag .
+4012	S32_Pizza_7150991-1	f89_i036_a00	390.0	406.0	11700	12210	spreading grated cheese on pizza crust .
+4013	S40_Salad_7150991-195	f120_i017_a00	121.0	124.0	3630	3750	tearing a celery stalk off a celery head .
+4014	S12_Brownie_7150991-1306	f16_i019_a00	134.0	136.0	4020	4110	taking a big measuring cup from a cabinet .
+4015	S47_Eggs_7150991-201	f128_i016_a00	61.0	66.0	1830	2010	cracking an egg into a big bowl .
+4016	S16_Sandwich_7150991-1075	f38_i024_a00	151.0	152.0	4530	4590	putting a butter knife and a spoon into a sink .
+4017	S11_Salad_7150991-825	f15_i009_a00	90.0	109.0	2700	3300	peeling a zucchini with a peeler .
+4018	S12_Sandwich_7150991-2470	f20_i009_a00	47.0	54.0	1410	1650	twisting off a twist tie from a bag of sliced bread .
+4019	S30_Eggs_7150991-1	f79_i018_a00	74.0	76.0	2220	2310	taking a pepper bottle from a cabinet .
+4020	S47_Eggs_7150991-201	f128_i006_a00	27.0	30.0	810	930	pouring oil into a frying pan .
+4021	S30_Sandwich_7150991-1	f81_i009_a00	29.0	31.0	870	960	taking a butter knife from a drawer .
+4022	S32_Brownie_7150991-1	f87_i018_a00	108.0	112.0	3240	3390	cracking an egg into a big bowl .
+4023	S34_Pizza_7150991-240	f99_i024_a00	291.0	293.0	8730	8820	cutting a block cheese with a kitchen knife .
+4024	S09_Brownie_7150991-1653	f09_i009_a00	65.0	68.0	1950	2070	cracking an egg into a big bowl .
+4025	S09_Salad_7150991-1874	f12_i013_a00	119.0	147.0	3570	4440	peeling a zucchini with a peeler .
+4026	S32_Pizza_7150991-1	f89_i040_a00	481.0	484.0	14430	14550	opening a package of a pepperoni stick .
+4027	S09_Brownie_7150991-1653	f09_i030_a00	193.0	197.0	5790	5940	pouring brownie mix into a big bowl .
+4028	S09_Pizza_7150991-1072	f11_i022_a00	171.0	174.0	5130	5250	closing a tomato sauce jar .
+4029	S30_Pizza_7150991-1	f80_i022_a00	221.0	223.0	6630	6720	closing a cabinet .
+4030	S32_Brownie_7150991-1	f87_i033_a00	247.0	273.0	7410	8220	pouring brownie batter into a baking pan with a whisk .
+4031	S09_Salad_7150991-1874	f12_i014_a00	151.0	163.0	4530	4920	slicing a zucchini with a kitchen knife .
+4032	S28_Eggs_7150991-1	f69_i006_a00	29.0	30.0	870	930	turning on a gas stove .
+4033	S12_Sandwich_7150991-2470	f20_i019_a00	140.0	143.0	4200	4320	closing a peanut butter jar .
+4034	S32_Brownie_7150991-1	f87_i026_a00	153.0	155.0	4590	4680	putting a cooking spray into a base cabinet .
+4035	S28_Sandwich_7150991-1	f72_i009_a00	49.0	51.0	1470	1560	taking a butter knife from a drawer .
+4036	S28_Brownie_7150991-1	f68_i028_a00	289.0	292.0	8670	8790	taking a cooking spray from a base cabinet .
+4037	S36_Eggs_7150991-543	f108_i003_a00	25.0	28.0	750	870	putting an egg carton on a counter .
+4038	S32_Salad_7150991-1	f90_i002_a00	18.0	21.0	540	660	taking ingredients from a fridge .
+4039	S29_Eggs_7150991-1	f74_i017_a00	61.0	62.0	1830	1890	taking a whisk from a drawer .
+4040	S30_Pizza_7150991-1	f80_i027_a00	317.0	320.0	9510	9630	taking a cutting board from the corner of a counter .
+4041	S30_Pizza_7150991-1	f80_i003_a00	25.0	35.0	750	1080	taking ingredients from a fridge .
+4042	S09_Salad_7150991-1874	f12_i007_a00	67.0	72.0	2010	2190	taking a peeler and a kitchen knife from a drawer .
+4043	S12_Sandwich_7150991-2470	f20_i008_a00	43.0	46.0	1290	1410	putting jars on a counter .
+4044	S40_Eggs_7150991-185	f118_i001_a00	16.0	21.0	480	660	taking eggs from an egg carton in a fridge .
+4045	S29_Brownie_7150991-1	f73_i018_a00	88.0	90.0	2640	2730	taking a whisk from a drawer .
+4046	S30_Eggs_7150991-1	f79_i005_a00	28.0	30.0	840	930	opening a drawer .
+4047	S13_Sandwich_7150991-863	f24_i028_a00	176.0	186.0	5280	5610	closing a bag of sliced bread with a twist tie .
+4048	S12_Brownie_7150991-1306	f16_i035_a00	246.0	264.0	7380	7950	pouring brownie mix into a big bowl .
+4049	S13_Sandwich_7150991-863	f24_i006_a00	34.0	37.0	1020	1140	taking a paper plate from a cabinet .
+4050	S30_Brownie_7150991-1	f78_i025_a00	128.0	133.0	3840	4020	trying to open a bag of brownie mix .
+4051	S07_Pizza_7150991-1884	f02_i000_a00	13.0	15.0	390	480	opening a base cabinet .
+4052	S36_Pizza_7150991-355	f109_i005_a00	31.0	32.0	930	990	moving a cutting board closer .
+4053	S29_Eggs_7150991-1	f74_i028_a00	109.0	114.0	3270	3450	beating eggs with a whisk .
+4054	S28_Salad_7150991-1	f71_i007_a00	37.0	39.0	1110	1200	taking a peeler from a drawer .
+4055	S07_Brownie_7150991-1431	f00_i020_a00	133.0	138.0	3990	4170	taking a box of brownie mix .
+4056	S07_Salad_7150991-2095	f03_i023_a00	246.0	249.0	7380	7500	closing a bag of croutons .
+4057	S09_Brownie_7150991-1653	f09_i016_a00	114.0	119.0	3420	3600	pouring oil into a big bowl .
+4058	S29_Brownie_7150991-1	f73_i021_a00	116.0	119.0	3480	3600	pouring water into a big bowl .
+4059	S28_Salad_7150991-1	f71_i022_a00	308.0	310.0	9240	9330	putting zucchini slices into a bowl .
+4060	S09_Brownie_7150991-1653	f09_i026_a00	172.0	176.0	5160	5310	cutting the bag of brownie mix with scissors .
+4061	S30_Sandwich_7150991-1	f81_i003_a00	15.0	17.0	450	540	taking jars from a fridge .
+4062	S40_Salad_7150991-195	f120_i026_a00	166.0	181.0	4980	5460	peeling a carrot with a peeler .
+4063	S08_Pizza_7150991-563	f06_i006_a00	37.0	39.0	1110	1200	closing a base cabinet .
+4064	S11_Salad_7150991-825	f15_i023_a00	220.0	225.0	6600	6780	opening a bag of croutons .
+4065	S30_Brownie_7150991-1	f78_i004_a00	29.0	32.0	870	990	taking a big bowl from a cabinet .
+4066	S28_Brownie_7150991-1	f68_i023_a00	160.0	167.0	4800	5040	pouring water into a big bowl .
+4067	S34_Pizza_7150991-240	f99_i003_a00	29.0	32.0	870	990	taking a pizza crust can from a fridge .
+4068	S09_Salad_7150991-1874	f12_i005_a00	59.0	63.0	1770	1920	closing a bag of lettuce .
+4069	S29_Brownie_7150991-1	f73_i019_a00	92.0	109.0	2760	3300	beating eggs with a whisk .
+4070	S09_Pizza_7150991-1072	f11_i008_a00	36.0	44.0	1080	1350	peeling off the label of a pizza crust can .
+4071	S40_Eggs_7150991-185	f118_i000_a00	13.0	15.0	390	480	opening a fridge .
+4072	S34_Pizza_7150991-240	f99_i030_a00	434.0	436.0	13020	13110	taking a cutting board from the corner of a counter .
+4073	S13_Sandwich_7150991-863	f24_i009_a00	52.0	55.0	1560	1680	taking a bag of sliced bread from a cabinet .
+4074	S11_Salad_7150991-825	f15_i029_a00	248.0	249.0	7440	7500	closing a dressing bottle .
+4075	S28_Eggs_7150991-1	f69_i019_a00	81.0	87.0	2430	2640	opening a pepper bottle .
+4076	S12_Sandwich_7150991-2470	f20_i018_a00	126.0	138.0	3780	4170	spreading peanut butter on a slice of bread with a butter knife .
+4077	S40_Eggs_7150991-185	f118_i029_a00	177.0	179.0	5310	5400	taking a spatula from a drawer .
+4078	S32_Pizza_7150991-1	f89_i019_a00	180.0	186.0	5400	5610	pouring tomato sauce on pizza crust .
+4079	S29_Brownie_7150991-1	f73_i005_a00	35.0	38.0	1050	1170	pouring tap water into a big measuring cup .
+4080	S07_Brownie_7150991-1431	f00_i007_a00	45.0	46.0	1350	1410	closing a fridge .
+4081	S29_Brownie_7150991-1	f73_i006_a00	41.0	43.0	1230	1320	taking a small measuring cup from a cabinet .
+4082	S07_Brownie_7150991-1431	f00_i016_a00	104.0	111.0	3120	3360	pouring oil into a small measuring cup .
+4083	S07_Salad_7150991-2095	f03_i025_a00	254.0	266.0	7620	8010	pouring dressing on a salad .
+4084	S40_Salad_7150991-195	f120_i014_a00	103.0	105.0	3090	3180	tearing a celery stalk off a celery head .
+4085	S07_Brownie_7150991-1431	f00_i003_a00	33.0	37.0	990	1140	taking a fork from a drawer .
+4086	S36_Pizza_7150991-355	f109_i020_a00	202.0	206.0	6060	6210	folding one side of pizza crust .
+4087	S40_Salad_7150991-195	f120_i040_a00	276.0	282.0	8280	8490	organizing a counter .
+4088	S28_Brownie_7150991-1	f68_i031_a00	305.0	307.0	9150	9240	putting a cap on a cooking spray .
+4089	S34_Pizza_7150991-240	f99_i022_a00	268.0	271.0	8040	8160	taking a cheese grater from a cabinet .
+4090	S12_Sandwich_7150991-2470	f20_i001_a00	22.0	27.0	660	840	taking a butter knife from a drawer .
+4091	S34_Pizza_7150991-240	f99_i037_a00	494.0	497.0	14820	14940	putting a pepperoni stick into a fridge .
+4092	S13_Sandwich_7150991-863	f24_i008_a00	43.0	49.0	1290	1500	taking a butter knife from a drawer .
+4093	S36_Eggs_7150991-543	f108_i007_a00	51.0	56.0	1530	1710	cracking an egg into a big bowl .
+4094	S30_Pizza_7150991-1	f80_i000_a00	11.0	16.0	330	510	taking a baking pan out of an oven .
+4095	S29_Brownie_7150991-1	f73_i011_a00	59.0	66.0	1770	2010	pouring oil into a small measuring cup .
+4096	S32_Salad_7150991-1	f90_i030_a00	342.0	345.0	10260	10380	opening a bag of croutons .
+4097	S40_Eggs_7150991-185	f118_i034_a00	293.0	296.0	8790	8910	taking a paper plate from a cabinet .
+4098	S28_Brownie_7150991-1	f68_i006_a00	30.0	32.0	900	990	taking a big measuring cup from a cabinet .
+4099	S34_Pizza_7150991-240	f99_i014_a00	164.0	214.0	4920	6450	spreading tomato sauce on pizza crust with a spoon .
+4100	S29_Eggs_7150991-1	f74_i008_a00	28.0	30.0	840	930	opening a fridge .
+4101	S36_Pizza_7150991-355	f109_i010_a00	70.0	75.0	2100	2280	opening a pizza crust can with hands .
+4102	S28_Eggs_7150991-1	f69_i032_a00	289.0	293.0	8670	8820	taking a paper plate from a cabinet .
+4103	S47_Eggs_7150991-201	f128_i023_a00	88.0	90.0	2640	2730	sprinkling pepper on eggs in a big bowl .
+4104	S09_Salad_7150991-1874	f12_i024_a00	242.0	262.0	7260	7890	putting ingredients into a fridge .
+4105	S32_Pizza_7150991-1	f89_i020_a00	187.0	193.0	5610	5820	scooping out tomato sauce from a jar with a spoon .
+4106	S07_Pizza_7150991-1884	f02_i022_a00	193.0	199.0	5790	6000	putting ingredients into a fridge .
+4107	S32_Eggs_7150991-1	f88_i010_a00	46.0	48.0	1380	1470	opening a drawer .
+4108	S32_Eggs_7150991-1	f88_i008_a00	38.0	40.0	1140	1230	putting a cap on an oil bottle .
+4109	S30_Sandwich_7150991-1	f81_i015_a00	69.0	75.0	2070	2280	scooping out blueberry jam from a jar with a butter knife .
+4110	S32_Brownie_7150991-1	f87_i008_a00	52.0	58.0	1560	1770	taking eggs from an egg carton in a fridge .
+4111	S28_Salad_7150991-1	f71_i029_a00	394.0	401.0	11820	12060	putting croutons on a salad .
+4112	S30_Eggs_7150991-1	f79_i027_a00	124.0	127.0	3720	3840	putting a cap on an oil bottle .
+4113	S09_Brownie_7150991-1653	f09_i035_a00	244.0	246.0	7320	7410	folding a bag of brownie mix .
+4114	S13_Sandwich_7150991-863	f24_i005_a00	31.0	32.0	930	990	opening a base cabinet .
+4115	S07_Brownie_7150991-1431	f00_i026_a00	187.0	189.0	5610	5700	pouring brownie mix into a big bowl .
+4116	S12_Brownie_7150991-1306	f16_i030_a00	193.0	206.0	5790	6210	mixing the ingredients in a big bowl with a fork .
+4117	S13_Sandwich_7150991-863	f24_i015_a00	86.0	94.0	2580	2850	spreading peanut butter on a slice of bread with a butter knife .
+4118	S32_Salad_7150991-1	f90_i019_a00	136.0	160.0	4080	4830	peeling a carrot with a peeler .
+4119	S09_Brownie_7150991-1653	f09_i027_a00	178.0	181.0	5340	5460	putting scissors into a drawer .
+4120	S09_Brownie_7150991-1653	f09_i014_a00	82.0	90.0	2460	2730	beating eggs with a fork .
+4121	S40_Eggs_7150991-185	f118_i026_a00	159.0	162.0	4770	4890	sprinkling pepper on eggs in a big bowl .
+4122	S30_Sandwich_7150991-1	f81_i013_a00	62.0	64.0	1860	1950	separating two slices of bread on a paper plate .
+4123	S32_Salad_7150991-1	f90_i011_a00	64.0	67.0	1920	2040	taking a bowl from a cabinet .
+4124	S32_Pizza_7150991-1	f89_i027_a00	262.0	265.0	7860	7980	taking a cheese grater from a cabinet .
+4125	S09_Brownie_7150991-1653	f09_i043_a00	349.0	351.0	10470	10560	taking a cap off a cooking spray .
+4126	S28_Salad_7150991-1	f71_i023_a00	318.0	322.0	9540	9690	taking a lettuce leaf from a lettuce head in a bag .
+4127	S28_Brownie_7150991-1	f68_i003_a00	20.0	23.0	600	720	taking a big bowl from a cabinet .
+4128	S07_Pizza_7150991-1884	f02_i014_a00	147.0	149.0	4410	4500	opening a drawer .
+4129	S09_Pizza_7150991-1072	f11_i016_a00	111.0	117.0	3330	3540	stretching pizza crust with hands .
+4130	S40_Eggs_7150991-185	f118_i010_a00	58.0	60.0	1740	1830	opening a cabinet .
+4131	S30_Eggs_7150991-1	f79_i003_a00	22.0	24.0	660	750	opening a cabinet .
+4132	S29_Sandwich_7150991-1	f77_i019_a00	73.0	75.0	2190	2280	wiping a butter knife with a paper towel .
+4133	S40_Salad_7150991-195	f120_i013_a00	100.0	102.0	3000	3090	taking a celery head out of a bag .
+4134	S13_Sandwich_7150991-863	f24_i023_a00	123.0	136.0	3690	4110	scooping out blueberry jam from a jar with a butter knife .
+4135	S34_Pizza_7150991-240	f99_i040_a00	510.0	512.0	15300	15390	closing an oven .
+4136	S32_Salad_7150991-1	f90_i013_a00	77.0	85.0	2310	2580	taking a lettuce head out of a bag .
+4137	S47_Eggs_7150991-201	f128_i014_a00	56.0	59.0	1680	1800	taking a big bowl from a cabinet .
+4138	S11_Salad_7150991-825	f15_i006_a00	63.0	66.0	1890	2010	putting a bag of lettuce into a fridge .
+4139	S12_Brownie_7150991-1306	f16_i038_a00	348.0	406.0	10440	12210	mixing the ingredients of brownie in a big bowl with a fork .
+4140	S36_Eggs_7150991-543	f108_i023_a00	175.0	178.0	5250	5370	putting a frying pan on a gas stove .
+4141	S28_Sandwich_7150991-1	f72_i012_a00	68.0	87.0	2040	2640	spreading peanut butter on a slice of bread with a butter knife .
+4142	S28_Brownie_7150991-1	f68_i026_a00	185.0	277.0	5550	8340	mixing the ingredients of brownie in a big bowl with a whisk .
+4143	S32_Pizza_7150991-1	f89_i009_a00	54.0	64.0	1620	1950	peeling off the label of a pizza crust can .
+4144	S07_Salad_7150991-2095	f03_i024_a00	250.0	252.0	7500	7590	putting a bag of croutons into a cabinet .
+4145	S32_Salad_7150991-1	f90_i001_a00	10.0	15.0	300	480	taking ingredients from a fridge .
+4146	S34_Pizza_7150991-240	f99_i017_a00	233.0	237.0	6990	7140	taking a kitchen knife from a drawer .
+4147	S09_Brownie_7150991-1653	f09_i053_a00	433.0	435.0	12990	13080	opening an oven .
+4148	S09_Pizza_7150991-1072	f11_i028_a00	259.0	264.0	7770	7950	putting a block cheese into a package .
+4149	S12_Brownie_7150991-1306	f16_i018_a00	105.0	128.0	3150	3870	beating eggs with a fork .
+4150	S34_Pizza_7150991-240	f99_i002_a00	24.0	26.0	720	810	opening a fridge .
+4151	S40_Eggs_7150991-185	f118_i006_a00	34.0	37.0	1020	1140	taking a whisk from a drawer .
+4152	S29_Eggs_7150991-1	f74_i025_a00	99.0	102.0	2970	3090	pouring oil into a frying pan .
+4153	S16_Sandwich_7150991-1075	f38_i009_a00	51.0	56.0	1530	1710	putting a bag of sliced bread into a cabinet .
+4154	S30_Eggs_7150991-1	f79_i004_a00	24.0	26.0	720	810	taking a big bowl from a cabinet .
+4155	S47_Eggs_7150991-201	f128_i003_a00	20.0	22.0	600	690	opening a base cabinet .
+4156	S28_Sandwich_7150991-1	f72_i014_a00	92.0	104.0	2760	3150	spreading peanut butter on a slice of bread with a butter knife .
+4157	S34_Pizza_7150991-240	f99_i004_a00	34.0	46.0	1020	1410	taking off a tag from a pizza crust can .
+4158	S30_Pizza_7150991-1	f80_i031_a00	413.0	415.0	12390	12480	opening an oven .
+4159	S28_Eggs_7150991-1	f69_i014_a00	48.0	52.0	1440	1590	swirling oil around in a frying pan with a spatula .
+4160	S29_Brownie_7150991-1	f73_i033_a00	230.0	231.0	6900	6960	putting a cap on a cooking spray .
+4161	S13_Sandwich_7150991-863	f24_i016_a00	95.0	96.0	2850	2910	scooping out peanut butter from a jar with a butter knife .
+4162	S07_Pizza_7150991-1884	f02_i006_a00	62.0	70.0	1860	2130	opening a pizza crust can with hands .
+4163	S32_Eggs_7150991-1	f88_i000_a00	8.0	10.0	240	330	opening a cabinet .
+4164	S13_Sandwich_7150991-863	f24_i011_a00	70.0	74.0	2100	2250	taking slices of bread out of a bag .
+4165	S28_Salad_7150991-1	f71_i018_a00	269.0	289.0	8070	8700	slicing a zucchini with a kitchen knife .
+4166	S12_Brownie_7150991-1306	f16_i034_a00	231.0	243.0	6930	7320	opening a bag of brownie mix .
+4167	S09_Brownie_7150991-1653	f09_i025_a00	167.0	169.0	5010	5100	taking scissors from a drawer .
+4168	S40_Salad_7150991-195	f120_i039_a00	268.0	272.0	8040	8190	putting a cap on a dressing bottle .
+4169	S30_Sandwich_7150991-1	f81_i001_a00	12.0	13.0	360	420	taking a bag of sliced bread from a fridge .
+4170	S32_Eggs_7150991-1	f88_i014_a00	57.0	63.0	1710	1920	taking eggs from an egg carton in a fridge .
+4171	S32_Pizza_7150991-1	f89_i005_a00	33.0	42.0	990	1290	taking ingredients from a fridge .
+4172	S08_Pizza_7150991-563	f06_i029_a00	289.0	302.0	8670	9090	grating a block cheese onto pizza crust with a cheese grater .
+4173	S34_Pizza_7150991-240	f99_i029_a00	424.0	433.0	12720	13020	peeling a casing off a pepperoni stick .
+4174	S32_Pizza_7150991-1	f89_i024_a00	246.0	249.0	7380	7500	taking a kitchen knife from a drawer .
+4175	S28_Brownie_7150991-1	f68_i017_a00	95.0	97.0	2850	2940	wiping hands with a towel .
+4176	S11_Salad_7150991-825	f15_i000_a00	11.0	14.0	330	450	taking a bowl from a cabinet .
+4177	S32_Salad_7150991-1	f90_i033_a00	360.0	365.0	10800	10980	taking a dressing bottle from a fridge .
+4178	S32_Salad_7150991-1	f90_i012_a00	70.0	76.0	2100	2310	untying a bag of lettuce .
+4179	S28_Salad_7150991-1	f71_i008_a00	41.0	46.0	1230	1410	taking a zucchini halfway out of a bag .
+4180	S28_Sandwich_7150991-1	f72_i001_a00	9.0	10.0	270	330	taking a bag of sliced bread from a fridge .
+4181	S30_Pizza_7150991-1	f80_i014_a00	163.0	165.0	4890	4980	taking a spoon from a drawer .
+4182	S30_Brownie_7150991-1	f78_i018_a00	85.0	88.0	2550	2670	pouring oil into a big bowl .
+4183	S12_Sandwich_7150991-2470	f20_i026_a00	168.0	177.0	5040	5340	spreading blueberry jam on a slice of bread with a butter knife .
+4184	S29_Brownie_7150991-1	f73_i027_a00	144.0	156.0	4320	4710	pouring brownie mix into a big bowl .
+4185	S16_Sandwich_7150991-1075	f38_i001_a00	9.0	11.0	270	360	taking a bag of sliced bread from a cabinet .
+4186	S08_Pizza_7150991-563	f06_i023_a00	215.0	223.0	6450	6720	cutting the package of a block cheese with a kitchen knife .
+4187	S16_Sandwich_7150991-1075	f38_i008_a00	40.0	49.0	1200	1500	closing a bag of sliced bread with a twist tie .
+4188	S32_Salad_7150991-1	f90_i014_a00	86.0	88.0	2580	2670	removing a white band from a lettuce head .
+4189	S30_Eggs_7150991-1	f79_i034_a00	245.0	247.0	7350	7440	turning off a gas stove .
+4190	S32_Brownie_7150991-1	f87_i013_a00	73.0	75.0	2190	2280	pouring tap water into a big measuring cup .
+4191	S32_Brownie_7150991-1	f87_i006_a00	44.0	47.0	1320	1440	taking a whisk from a drawer .
+4192	S16_Sandwich_7150991-1075	f38_i010_a00	58.0	60.0	1740	1830	opening a peanut butter jar .
+4193	S34_Pizza_7150991-240	f99_i039_a00	503.0	510.0	15090	15330	putting a baking pan into an oven .
+4194	S09_Pizza_7150991-1072	f11_i007_a00	33.0	35.0	990	1080	putting ingredients on a counter .
+4195	S08_Pizza_7150991-563	f06_i019_a00	196.0	198.0	5880	5970	putting a spoon into a sink .
+4196	S32_Brownie_7150991-1	f87_i010_a00	64.0	65.0	1920	1980	opening a cabinet .
+4197	S32_Eggs_7150991-1	f88_i015_a00	65.0	68.0	1950	2070	taking a towel from the corner of a counter .
+4198	S09_Salad_7150991-1874	f12_i011_a00	107.0	111.0	3210	3360	putting a carrot into a bag .
+4199	S40_Eggs_7150991-185	f118_i005_a00	32.0	34.0	960	1050	opening a drawer .
+4200	S12_Sandwich_7150991-2470	f20_i012_a00	76.0	87.0	2280	2640	closing a bag of sliced bread with a twist tie .
+4201	S28_Sandwich_7150991-1	f72_i011_a00	58.0	67.0	1740	2040	scooping out peanut butter from a jar with a butter knife .
+4202	S32_Pizza_7150991-1	f89_i039_a00	458.0	478.0	13740	14370	putting pepperoni slices on pizza crust .
+4203	S08_Pizza_7150991-563	f06_i007_a00	41.0	43.0	1230	1320	putting a baking pan on a counter .
+4204	S32_Salad_7150991-1	f90_i016_a00	107.0	109.0	3210	3300	taking a kitchen knife from a drawer .
+4205	S30_Brownie_7150991-1	f78_i028_a00	139.0	140.0	4170	4230	closing a drawer .
+4206	S09_Pizza_7150991-1072	f11_i027_a00	210.0	253.0	6300	7620	grating a block cheese onto pizza crust with a cheese grater .
+4207	S11_Salad_7150991-825	f15_i028_a00	244.0	247.0	7320	7440	pouring dressing on a salad .
+4208	S09_Brownie_7150991-1653	f09_i039_a00	338.0	339.0	10140	10200	opening a base cabinet .
+4209	S40_Salad_7150991-195	f120_i018_a00	125.0	134.0	3750	4050	cutting a celery stalk with a kitchen knife .
+4210	S12_Brownie_7150991-1306	f16_i025_a00	175.0	178.0	5250	5370	putting a cap on an oil bottle .
+4211	S29_Brownie_7150991-1	f73_i030_a00	214.0	217.0	6420	6540	taking a baking pan out of an oven .
+4212	S09_Pizza_7150991-1072	f11_i031_a00	273.0	278.0	8190	8370	slicing a pepperoni stick with a kitchen knife .
+4213	S30_Pizza_7150991-1	f80_i002_a00	23.0	25.0	690	780	opening a fridge .
+4214	S13_Sandwich_7150991-863	f24_i022_a00	121.0	122.0	3630	3690	opening a blueberry jam jar .
+4215	S29_Brownie_7150991-1	f73_i026_a00	137.0	143.0	4110	4320	opening a bag of brownie mix .
+4216	S28_Brownie_7150991-1	f68_i001_a00	11.0	15.0	330	480	taking eggs from an egg carton in a fridge .
+4217	S36_Pizza_7150991-355	f109_i035_a00	490.0	503.0	14700	15120	putting pepperoni slices on pizza crust .
+4218	S29_Brownie_7150991-1	f73_i008_a00	50.0	51.0	1500	1560	opening a base cabinet .
+4219	S40_Eggs_7150991-185	f118_i038_a00	316.0	318.0	9480	9570	putting a spatula into a sink .
+4220	S34_Pizza_7150991-240	f99_i009_a00	108.0	131.0	3240	3960	unrolling pizza crust on a baking pan .
+4221	S08_Pizza_7150991-563	f06_i035_a00	403.0	409.0	12090	12300	putting pepperoni slices on pizza crust .
+4222	S36_Pizza_7150991-355	f109_i032_a00	327.0	342.0	9810	10290	spreading grated cheese on pizza crust .
+4223	S09_Brownie_7150991-1653	f09_i047_a00	368.0	375.0	11040	11280	stirring brownie batter with a fork .
+4224	S07_Pizza_7150991-1884	f02_i005_a00	47.0	62.0	1410	1890	pushing the middle of a pizza crust can with fingers .
+4225	S30_Pizza_7150991-1	f80_i018_a00	205.0	213.0	6150	6420	cutting a packaged block cheese with a kitchen knife .
+4226	S12_Brownie_7150991-1306	f16_i022_a00	151.0	153.0	4530	4620	putting a big measuring cup into a sink .
+4227	S28_Eggs_7150991-1	f69_i013_a00	46.0	47.0	1380	1440	taking a spatula from a drawer .
+4228	S07_Brownie_7150991-1431	f00_i027_a00	189.0	192.0	5670	5790	mixing the ingredients of brownie in a big bowl with a fork .
+4229	S36_Eggs_7150991-543	f108_i010_a00	69.0	71.0	2070	2160	opening a drawer .
+4230	S28_Salad_7150991-1	f71_i004_a00	26.0	27.0	780	840	closing a fridge .
+4231	S30_Brownie_7150991-1	f78_i017_a00	81.0	82.0	2430	2490	closing a base cabinet .
+4232	S34_Pizza_7150991-240	f99_i006_a00	53.0	69.0	1590	2100	peeling off the label of a pizza crust can .
+4233	S16_Sandwich_7150991-1075	f38_i026_a00	158.0	159.0	4740	4800	opening a fridge .
+4234	S09_Pizza_7150991-1072	f11_i004_a00	21.0	25.0	630	780	taking ingredients from a fridge .
+4235	S12_Brownie_7150991-1306	f16_i000_a00	16.0	18.0	480	570	taking an oil bottle from a base cabinet .
+4236	S36_Pizza_7150991-355	f109_i019_a00	184.0	200.0	5520	6030	putting pizza crust on a baking pan .
+4237	S30_Pizza_7150991-1	f80_i021_a00	219.0	221.0	6570	6660	taking a cheese grater from a cabinet .
+4238	S11_Salad_7150991-825	f15_i013_a00	137.0	141.0	4110	4260	taking a carrot out of a bag .
+4239	S36_Eggs_7150991-543	f108_i015_a00	140.0	144.0	4200	4350	taking seasonings from a cabinet .
+4240	S32_Salad_7150991-1	f90_i000_a00	7.0	8.0	210	270	opening a fridge .
+4241	S28_Brownie_7150991-1	f68_i030_a00	295.0	303.0	8850	9120	spraying oil on a baking pan .
+4242	S30_Pizza_7150991-1	f80_i030_a00	404.0	409.0	12120	12300	spreading pepperoni slices on pizza crust .
+4243	S07_Salad_7150991-2095	f03_i018_a00	210.0	222.0	6300	6690	cutting a celery stalk into a bowl with a kitchen knife .
+4244	S47_Eggs_7150991-201	f128_i027_a00	98.0	128.0	2940	3870	beating eggs with a whisk .
+4245	S29_Eggs_7150991-1	f74_i006_a00	23.0	24.0	690	750	putting a big bowl into a cabinet .
+4246	S09_Pizza_7150991-1072	f11_i009_a00	46.0	64.0	1380	1950	pushing the middle of a pizza crust can with fingers .
+4247	S32_Eggs_7150991-1	f88_i011_a00	48.0	50.0	1440	1530	taking a spatula from a drawer .
+4248	S29_Brownie_7150991-1	f73_i013_a00	71.0	75.0	2130	2280	taking an egg from an egg carton .
+4249	S07_Pizza_7150991-1884	f02_i002_a00	27.0	32.0	810	990	taking ingredients from a fridge .
+4250	S40_Eggs_7150991-185	f118_i017_a00	109.0	112.0	3270	3390	twisting off an oil bottle cap .
+4251	S32_Eggs_7150991-1	f88_i013_a00	54.0	56.0	1620	1710	opening a fridge .
+4252	S09_Brownie_7150991-1653	f09_i020_a00	140.0	144.0	4200	4350	pouring water into a big bowl .
+4253	S09_Brownie_7150991-1653	f09_i022_a00	147.0	153.0	4410	4620	beating eggs with a fork .
+4254	S32_Salad_7150991-1	f90_i007_a00	41.0	45.0	1230	1380	taking a carrot out of a bag .
+4255	S30_Pizza_7150991-1	f80_i001_a00	17.0	22.0	510	690	pressing the buttons on an oven .
+4256	S36_Pizza_7150991-355	f109_i026_a00	240.0	242.0	7200	7290	taking a cheese grater from a cabinet .
+4257	S30_Sandwich_7150991-1	f81_i011_a00	46.0	47.0	1380	1440	taking slices of bread out of a bag .
+4258	S08_Pizza_7150991-563	f06_i003_a00	28.0	30.0	840	930	opening a base cabinet .
+4259	S30_Eggs_7150991-1	f79_i011_a00	44.0	46.0	1320	1410	cracking an egg into a big bowl .
+4260	S32_Eggs_7150991-1	f88_i006_a00	32.0	35.0	960	1080	twisting off an oil bottle cap .
+4261	S32_Brownie_7150991-1	f87_i031_a00	234.0	238.0	7020	7170	spraying oil on a baking pan .
+4262	S12_Brownie_7150991-1306	f16_i002_a00	24.0	25.0	720	780	opening a cabinet .
+4263	S34_Pizza_7150991-240	f99_i027_a00	416.0	419.0	12480	12600	putting a block cheese into a fridge .
+4264	S09_Salad_7150991-1874	f12_i001_a00	13.0	22.0	390	690	taking ingredients from a fridge .
+4265	S34_Pizza_7150991-240	f99_i023_a00	273.0	289.0	8190	8700	grating a block cheese onto pizza crust with a cheese grater .
+4266	S32_Brownie_7150991-1	f87_i003_a00	29.0	32.0	870	990	taking a bag of brownie mix out of a box .
+4267	S28_Brownie_7150991-1	f68_i011_a00	52.0	59.0	1560	1800	pressing the buttons on an oven .
+4268	S36_Pizza_7150991-355	f109_i025_a00	229.0	238.0	6870	7170	taking the package off a block cheese .
+4269	S09_Brownie_7150991-1653	f09_i012_a00	78.0	79.0	2340	2400	opening a drawer .
+4270	S12_Sandwich_7150991-2470	f20_i017_a00	122.0	124.0	3660	3750	scooping out peanut butter from a jar with a butter knife .
+4271	S47_Eggs_7150991-201	f128_i035_a00	346.0	348.0	10380	10470	turning off a gas stove .
+4272	S36_Eggs_7150991-543	f108_i027_a00	191.0	200.0	5730	6030	swirling oil around in a frying pan .
+4273	S09_Brownie_7150991-1653	f09_i049_a00	405.0	407.0	12150	12240	wiping brownie batter off the side of a big bowl .
+4274	S09_Pizza_7150991-1072	f11_i023_a00	175.0	178.0	5250	5370	taking a block cheese out of a package .
+4275	S09_Pizza_7150991-1072	f11_i025_a00	191.0	197.0	5730	5940	wiping tomato sauce off a cheese grater with a paper towel .
+4276	S29_Sandwich_7150991-1	f77_i003_a00	17.0	19.0	510	600	putting jars on a counter .
+4277	S16_Sandwich_7150991-1075	f38_i016_a00	93.0	104.0	2790	3150	spreading peanut butter on a slice of bread with a butter knife .
+4278	S36_Pizza_7150991-355	f109_i003_a00	23.0	26.0	690	810	taking ingredients from a fridge .
+4279	S12_Sandwich_7150991-2470	f20_i015_a00	104.0	110.0	3120	3330	scooping out peanut butter from a jar with a butter knife .
+4280	S12_Brownie_7150991-1306	f16_i049_a00	473.0	494.0	14190	14850	pressing the buttons on an oven .
+4281	S28_Eggs_7150991-1	f69_i008_a00	32.0	34.0	960	1050	taking an oil bottle from a base cabinet .
+4282	S28_Eggs_7150991-1	f69_i015_a00	53.0	57.0	1590	1740	cracking an egg into a big bowl .
+4283	S11_Salad_7150991-825	f15_i001_a00	17.0	30.0	510	930	taking ingredients from a fridge .
+4284	S12_Brownie_7150991-1306	f16_i052_a00	505.0	507.0	15150	15240	closing an oven .
+4285	S07_Pizza_7150991-1884	f02_i019_a00	181.0	183.0	5430	5520	putting pepperoni slices on pizza crust .
+4286	S09_Pizza_7150991-1072	f11_i030_a00	268.0	270.0	8040	8130	taking a kitchen knife from a drawer .
+4287	S32_Eggs_7150991-1	f88_i016_a00	72.0	77.0	2160	2340	cracking an egg into a big bowl .
+4288	S32_Salad_7150991-1	f90_i021_a00	216.0	228.0	6480	6870	putting carrot slices into a bowl .
+4289	S12_Brownie_7150991-1306	f16_i004_a00	27.0	30.0	810	930	taking a big bowl from a cabinet .
+4290	S12_Brownie_7150991-1306	f16_i027_a00	182.0	183.0	5460	5520	closing a base cabinet .
+4291	S08_Pizza_7150991-563	f06_i014_a00	115.0	117.0	3450	3540	opening a drawer .
+4292	S36_Pizza_7150991-355	f109_i001_a00	12.0	13.0	360	420	opening a fridge .
+4293	S47_Eggs_7150991-201	f128_i022_a00	87.0	88.0	2610	2670	taking a pepper bottle from a cabinet .
+4294	S32_Eggs_7150991-1	f88_i023_a00	126.0	132.0	3780	3990	swirling oil around in a frying pan with a spatula .
+4295	S30_Sandwich_7150991-1	f81_i021_a00	117.0	134.0	3510	4050	spreading peanut butter on a slice of bread with a butter knife .
+4296	S09_Brownie_7150991-1653	f09_i018_a00	128.0	130.0	3840	3930	putting an oil bottle into a base cabinet .
+4297	S07_Salad_7150991-2095	f03_i009_a00	124.0	128.0	3720	3870	taking a kitchen knife from a drawer .
+4298	S32_Pizza_7150991-1	f89_i015_a00	160.0	164.0	4800	4950	fixing a tear in pizza crust .
+4299	S09_Pizza_7150991-1072	f11_i013_a00	79.0	96.0	2370	2910	opening a pizza crust can with hands .
+4300	S07_Pizza_7150991-1884	f02_i024_a00	209.0	213.0	6270	6420	putting a baking pan into an oven .
+4301	S32_Brownie_7150991-1	f87_i032_a00	239.0	243.0	7170	7320	putting a cap on a cooking spray .
+4302	S13_Sandwich_7150991-863	f24_i003_a00	25.0	27.0	750	840	closing a fridge .
+4303	S28_Salad_7150991-1	f71_i002_a00	15.0	19.0	450	600	taking ingredients from a fridge .
+4304	S28_Brownie_7150991-1	f68_i005_a00	27.0	29.0	810	900	taking a small measuring cup from a cabinet .
+4305	S12_Sandwich_7150991-2470	f20_i003_a00	33.0	34.0	990	1050	taking jars from a fridge .
+4306	S12_Brownie_7150991-1306	f16_i028_a00	186.0	190.0	5580	5730	pouring oil into a big bowl .
+4307	S13_Sandwich_7150991-863	f24_i001_a00	19.0	21.0	570	660	taking a peanut butter jar from a fridge .
+4308	S09_Brownie_7150991-1653	f09_i007_a00	49.0	53.0	1470	1620	taking eggs from an egg carton in a fridge .
+4309	S07_Brownie_7150991-1431	f00_i011_a00	66.0	76.0	1980	2310	beating eggs with a fork .
+4310	S16_Sandwich_7150991-1075	f38_i005_a00	22.0	24.0	660	750	putting jars on a counter .
+4311	S34_Pizza_7150991-240	f99_i001_a00	18.0	23.0	540	720	pressing the buttons on an oven .
+4312	S12_Brownie_7150991-1306	f16_i014_a00	96.0	98.0	2880	2970	wiping hands with a paper towel .
+4313	S30_Brownie_7150991-1	f78_i020_a00	95.0	100.0	2850	3030	cracking an egg into a big bowl .
+4314	S07_Brownie_7150991-1431	f00_i028_a00	192.0	198.0	5760	5970	pouring brownie mix into a big bowl .
+4315	S09_Brownie_7150991-1653	f09_i037_a00	252.0	254.0	7560	7650	putting a box of brownie mix into a sink .
+4316	S28_Salad_7150991-1	f71_i012_a00	124.0	125.0	3720	3780	putting a peeler into a drawer .
+4317	S07_Brownie_7150991-1431	f00_i036_a00	336.0	342.0	10080	10290	pressing the buttons on an oven .
+4318	S09_Salad_7150991-1874	f12_i003_a00	39.0	43.0	1170	1320	opening a bag of lettuce .
+4319	S13_Sandwich_7150991-863	f24_i027_a00	168.0	170.0	5040	5130	putting a slice of bread on top of another slice of bread .
+4320	S07_Salad_7150991-2095	f03_i002_a00	56.0	64.0	1680	1950	taking ingredients from a fridge .
+4321	S29_Eggs_7150991-1	f74_i024_a00	96.0	98.0	2880	2970	twisting off an oil bottle cap .
+4322	S08_Pizza_7150991-563	f06_i027_a00	256.0	279.0	7680	8400	grating a block cheese onto pizza crust with a cheese grater .
+4323	S13_Sandwich_7150991-863	f24_i030_a00	194.0	195.0	5820	5880	opening a fridge .
+4324	S30_Brownie_7150991-1	f78_i030_a00	150.0	154.0	4500	4650	opening a bag of brownie mix .
+4325	S30_Sandwich_7150991-1	f81_i014_a00	65.0	66.0	1950	2010	opening a blueberry jam jar .
+4326	S08_Pizza_7150991-563	f06_i010_a00	66.0	68.0	1980	2070	wringing a pizza crust can with hands .
+4327	S40_Salad_7150991-195	f120_i001_a00	17.0	19.0	510	600	taking a cutting board from the corner of a counter .
+4328	S29_Eggs_7150991-1	f74_i009_a00	31.0	32.0	930	990	taking an egg carton from a fridge .
+4329	S34_Pizza_7150991-240	f99_i031_a00	438.0	444.0	13140	13350	peeling a casing off a pepperoni stick .
+4330	S30_Pizza_7150991-1	f80_i019_a00	213.0	216.0	6390	6510	taking a piece of a block cheese out of a package .
+4331	S16_Sandwich_7150991-1075	f38_i015_a00	88.0	90.0	2640	2730	scooping out peanut butter from a jar with a butter knife .
+4332	S29_Brownie_7150991-1	f73_i003_a00	30.0	31.0	900	960	opening a base cabinet .
+4333	S34_Pizza_7150991-240	f99_i018_a00	237.0	242.0	7110	7290	cutting the package of a block cheese with a kitchen knife .
+4334	S07_Pizza_7150991-1884	f02_i010_a00	98.0	110.0	2940	3330	spreading tomato sauce on pizza crust with a spoon .
+4335	S12_Brownie_7150991-1306	f16_i011_a00	85.0	89.0	2550	2700	cracking an egg into a big bowl .
+4336	S09_Pizza_7150991-1072	f11_i003_a00	19.0	21.0	570	660	opening a fridge .
+4337	S29_Sandwich_7150991-1	f77_i018_a00	70.0	72.0	2100	2190	taking a paper towel from the left of a counter .
+4338	S36_Eggs_7150991-543	f108_i033_a00	291.0	295.0	8730	8880	taking a paper plate from a cabinet .
+4339	S16_Sandwich_7150991-1075	f38_i021_a00	122.0	140.0	3660	4230	spreading blueberry jam on a slice of bread with a spoon .
+4340	S32_Pizza_7150991-1	f89_i048_a00	568.0	571.0	17040	17160	wiping hands with a towel .
+4341	S30_Brownie_7150991-1	f78_i006_a00	34.0	35.0	1020	1080	opening a cabinet .
+4342	S09_Brownie_7150991-1653	f09_i019_a00	133.0	138.0	3990	4170	pouring tap water into a big measuring cup .
+4343	S28_Sandwich_7150991-1	f72_i015_a00	107.0	110.0	3210	3330	rubbing a butter knife against a slice of bread .
+4344	S34_Pizza_7150991-240	f99_i035_a00	486.0	490.0	14580	14730	putting pepperoni slices on pizza crust .
+4345	S47_Eggs_7150991-201	f128_i018_a00	77.0	79.0	2310	2400	opening a cabinet .
+4346	S07_Brownie_7150991-1431	f00_i014_a00	94.0	99.0	2820	3000	taking an oil bottle from a base cabinet .
+4347	S30_Brownie_7150991-1	f78_i001_a00	15.0	22.0	450	690	taking eggs from an egg carton in a fridge .
+4348	S29_Brownie_7150991-1	f73_i031_a00	220.0	222.0	6600	6690	taking a cap off a cooking spray .
+4349	S47_Eggs_7150991-201	f128_i028_a00	134.0	136.0	4020	4110	taking a spatula from a drawer .
+4350	S32_Pizza_7150991-1	f89_i001_a00	11.0	14.0	330	450	taking a towel from the corner of a counter .
+4351	S30_Brownie_7150991-1	f78_i027_a00	135.0	138.0	4050	4170	taking a whisk from a drawer .
+4352	S29_Sandwich_7150991-1	f77_i006_a00	26.0	29.0	780	900	taking slices of bread out of a bag .
+4353	S32_Pizza_7150991-1	f89_i010_a00	65.0	69.0	1950	2100	wringing a pizza crust can with hands .
+4354	S30_Brownie_7150991-1	f78_i031_a00	155.0	164.0	4650	4950	pouring brownie mix into a big bowl .
+4355	S28_Salad_7150991-1	f71_i027_a00	380.0	384.0	11400	11550	putting celery stalk slices into a bowl .
+4356	S40_Salad_7150991-195	f120_i010_a00	73.0	81.0	2190	2460	cutting lettuce leaves with a kitchen knife .
+4357	S30_Sandwich_7150991-1	f81_i010_a00	34.0	44.0	1020	1350	untying a bag of sliced bread .
+4358	S13_Sandwich_7150991-863	f24_i002_a00	22.0	23.0	660	720	taking a blueberry jam jar from a fridge .
+4359	S34_Pizza_7150991-240	f99_i021_a00	260.0	267.0	7800	8040	opening a package of a block cheese .
+4360	S30_Eggs_7150991-1	f79_i025_a00	119.0	121.0	3570	3660	twisting off an oil bottle cap .
+4361	S09_Brownie_7150991-1653	f09_i054_a00	436.0	440.0	13080	13230	putting a baking pan into an oven .
+4362	S30_Sandwich_7150991-1	f81_i016_a00	78.0	79.0	2340	2400	closing a blueberry jam jar .
+4363	S30_Brownie_7150991-1	f78_i047_a00	269.0	288.0	8070	8670	pouring brownie batter into a baking pan with a whisk .
+4364	S07_Pizza_7150991-1884	f02_i011_a00	112.0	116.0	3360	3510	closing a tomato sauce jar .
+4365	S40_Eggs_7150991-185	f118_i009_a00	55.0	58.0	1650	1770	wiping fingers with a towel .
+4366	S28_Salad_7150991-1	f71_i005_a00	29.0	30.0	870	930	putting ingredients on a counter .
+4367	S32_Eggs_7150991-1	f88_i007_a00	35.0	38.0	1050	1170	pouring oil into a frying pan .
+4368	S12_Brownie_7150991-1306	f16_i042_a00	423.0	425.0	12690	12780	putting a cap on a cooking spray .
+4369	S40_Salad_7150991-195	f120_i022_a00	151.0	152.0	4530	4590	closing a fridge .
+4370	S30_Pizza_7150991-1	f80_i025_a00	275.0	298.0	8250	8970	grating a block cheese onto pizza crust with a cheese grater .
+4371	S07_Salad_7150991-2095	f03_i016_a00	193.0	196.0	5790	5910	putting a carrot into a bag .
+4372	S29_Brownie_7150991-1	f73_i029_a00	212.0	214.0	6360	6450	opening an oven .
+4373	S07_Brownie_7150991-1431	f00_i035_a00	325.0	334.0	9750	10050	putting a baking pan into an oven .
+4374	S29_Brownie_7150991-1	f73_i012_a00	67.0	69.0	2010	2100	putting a cap on an oil bottle .
+4375	S07_Brownie_7150991-1431	f00_i025_a00	176.0	187.0	5280	5640	mixing the ingredients of brownie in a big bowl with a fork .
+4376	S34_Pizza_7150991-240	f99_i007_a00	69.0	85.0	2070	2580	wringing a pizza crust can with hands .
+4377	S13_Sandwich_7150991-863	f24_i029_a00	188.0	189.0	5640	5700	putting a bag of sliced bread into a cabinet .
+4378	S40_Salad_7150991-195	f120_i036_a00	252.0	255.0	7560	7680	taking a dressing bottle from a fridge .
+4379	S28_Brownie_7150991-1	f68_i010_a00	48.0	50.0	1440	1530	twisting off an oil bottle cap .
+4380	S09_Brownie_7150991-1653	f09_i008_a00	59.0	62.0	1770	1890	cracking an egg into a big bowl .
+4381	S28_Brownie_7150991-1	f68_i002_a00	17.0	19.0	510	600	putting eggs on a counter .
+4382	S30_Eggs_7150991-1	f79_i033_a00	197.0	243.0	5910	7320	stirring eggs in a frying pan with a spatula .
+4383	S32_Pizza_7150991-1	f89_i014_a00	130.0	160.0	3900	4830	folding the edge of pizza crust .
+4384	S28_Eggs_7150991-1	f69_i024_a00	102.0	104.0	3060	3150	opening a salt bottle .
+4385	S07_Salad_7150991-2095	f03_i001_a00	44.0	54.0	1320	1650	taking ingredients from a fridge .
+4386	S32_Eggs_7150991-1	f88_i028_a00	244.0	248.0	7320	7470	taking a paper plate from a cabinet .
+4387	S28_Sandwich_7150991-1	f72_i022_a00	188.0	191.0	5640	5760	putting a bag of sliced bread into a fridge .
+4388	S29_Brownie_7150991-1	f73_i016_a00	81.0	84.0	2430	2550	cracking an egg into a big bowl .
+4389	S07_Pizza_7150991-1884	f02_i023_a00	206.0	208.0	6180	6270	opening an oven .
+4390	S09_Brownie_7150991-1653	f09_i023_a00	155.0	162.0	4650	4890	taking a bag of brownie mix out of a box .
+4391	S07_Brownie_7150991-1431	f00_i006_a00	40.0	45.0	1200	1380	taking multiple eggs from a fridge .
+4392	S30_Brownie_7150991-1	f78_i003_a00	26.0	28.0	780	870	putting eggs on a counter .
+4393	S32_Pizza_7150991-1	f89_i018_a00	177.0	180.0	5310	5430	opening a tomato sauce jar .
+4394	S32_Salad_7150991-1	f90_i032_a00	52.0	57.0	1560	1740	closing a bag of croutons .
+4395	S32_Eggs_7150991-1	f88_i025_a00	154.0	157.0	4620	4740	putting seasonings into a cabinet .
+4396	S29_Brownie_7150991-1	f73_i007_a00	46.0	49.0	1380	1500	taking a box of brownie mix from a base cabinet .
+4397	S29_Brownie_7150991-1	f73_i010_a00	55.0	57.0	1650	1740	twisting off an oil bottle cap .
+4398	S29_Eggs_7150991-1	f74_i030_a00	118.0	130.0	3540	3930	beating eggs with a whisk .
+4399	S07_Pizza_7150991-1884	f02_i009_a00	92.0	98.0	2760	2970	pouring tomato sauce on pizza crust .
+4400	S40_Salad_7150991-195	f120_i024_a00	157.0	161.0	4710	4860	taking a carrot out of a bag .
+4401	S07_Salad_7150991-2095	f03_i011_a00	144.0	149.0	4320	4500	taking a zucchini out of a bag .
+4402	S47_Eggs_7150991-201	f128_i026_a00	95.0	97.0	2850	2940	taking a whisk from a drawer .
+4403	S32_Pizza_7150991-1	f89_i008_a00	51.0	53.0	1530	1620	taking a tomato sauce jar from the left of a counter .
+4404	S28_Salad_7150991-1	f71_i024_a00	323.0	332.0	9690	9990	tearing a lettuce leaf into pieces .
+4405	S29_Sandwich_7150991-1	f77_i001_a00	11.0	12.0	330	390	taking a bag of sliced bread from a fridge .
+4406	S32_Eggs_7150991-1	f88_i029_a00	249.0	271.0	7470	8160	stirring eggs in a frying pan with a spatula .
+4407	S30_Pizza_7150991-1	f80_i011_a00	125.0	155.0	3750	4680	unrolling pizza crust on a baking pan .
+4408	S28_Brownie_7150991-1	f68_i025_a00	182.0	184.0	5460	5550	taking a whisk from a drawer .
+4409	S40_Eggs_7150991-185	f118_i036_a00	304.0	311.0	9120	9360	putting scrambled eggs on a paper plate .
+4410	S28_Salad_7150991-1	f71_i000_a00	8.0	9.0	240	300	opening a fridge .
+4411	S07_Salad_7150991-2095	f03_i020_a00	231.0	234.0	6930	7050	taking a bag of croutons from a cabinet .
+4412	S32_Salad_7150991-1	f90_i027_a00	296.0	306.0	8880	9210	slicing a zucchini with a kitchen knife .
+4413	S32_Pizza_7150991-1	f89_i013_a00	111.0	129.0	3330	3900	stretching pizza crust with hands .
+4414	S12_Brownie_7150991-1306	f16_i020_a00	139.0	143.0	4170	4320	pouring tap water into a big measuring cup .
+4415	S29_Eggs_7150991-1	f74_i002_a00	13.0	14.0	390	450	taking a frying pan from a cabinet .
+4416	S08_Pizza_7150991-563	f06_i013_a00	111.0	114.0	3330	3450	flipping pizza crust .
+4417	S12_Sandwich_7150991-2470	f20_i013_a00	89.0	92.0	2670	2790	putting a bag of sliced bread into a cabinet .
+4418	S30_Brownie_7150991-1	f78_i011_a00	52.0	53.0	1560	1620	opening a base cabinet .
+4419	S32_Eggs_7150991-1	f88_i019_a00	94.0	104.0	2820	3150	beating eggs with a whisk .
+4420	S28_Salad_7150991-1	f71_i003_a00	23.0	26.0	690	810	taking a dressing bottle from a fridge .
+4421	S32_Pizza_7150991-1	f89_i046_a00	554.0	559.0	16620	16800	slicing a pepperoni stick on a cutting board with a kitchen knife .
+4422	S40_Salad_7150991-195	f120_i004_a00	32.0	33.0	960	1020	closing a fridge .
+4423	S07_Brownie_7150991-1431	f00_i004_a00	37.0	39.0	1110	1200	walking to a fridge .
+4424	S09_Pizza_7150991-1072	f11_i014_a00	97.0	99.0	2910	3000	putting the label of a pizza crust can into a sink .
+4425	S09_Salad_7150991-1874	f12_i009_a00	87.0	99.0	2610	3000	cutting a carrot with a kitchen knife .
+4426	S32_Salad_7150991-1	f90_i010_a00	61.0	62.0	1830	1890	taking a bag of lettuce from the left of a counter .
+4427	S30_Eggs_7150991-1	f79_i012_a00	50.0	61.0	1500	1860	beating eggs with a whisk .
+4428	S30_Pizza_7150991-1	f80_i004_a00	37.0	41.0	1110	1260	putting ingredients on a counter .
+4429	S32_Pizza_7150991-1	f89_i002_a00	14.0	20.0	420	630	taking a baking pan out of an oven .
+4430	S28_Sandwich_7150991-1	f72_i013_a00	88.0	91.0	2640	2760	scooping out peanut butter from a jar with a butter knife .
+4431	S47_Eggs_7150991-201	f128_i021_a00	85.0	86.0	2550	2610	putting a salt bottle into a cabinet .
+4432	S28_Brownie_7150991-1	f68_i008_a00	39.0	41.0	1170	1260	taking a box of brownie mix from a base cabinet .
+4433	S09_Brownie_7150991-1653	f09_i040_a00	339.0	342.0	10170	10290	taking a baking pan from a base cabinet .
+4434	S13_Sandwich_7150991-863	f24_i021_a00	118.0	120.0	3540	3630	closing a peanut butter jar .
+4435	S40_Salad_7150991-195	f120_i019_a00	135.0	138.0	4050	4170	putting celery stalk slices into a bowl .
+4436	S47_Eggs_7150991-201	f128_i019_a00	79.0	81.0	2370	2460	taking a salt bottle from a cabinet .
+4437	S28_Eggs_7150991-1	f69_i018_a00	78.0	80.0	2340	2430	taking a pepper bottle from a cabinet .
+4438	S36_Pizza_7150991-355	f109_i015_a00	122.0	125.0	3660	3780	taking a spoon from a drawer .
+4439	S32_Salad_7150991-1	f90_i006_a00	37.0	39.0	1110	1200	taking a peeler from a drawer .
+4440	S09_Pizza_7150991-1072	f11_i006_a00	28.0	32.0	840	990	taking ingredients from a fridge .
+4441	S40_Eggs_7150991-185	f118_i022_a00	144.0	147.0	4320	4440	taking seasonings from a cabinet .
+4442	S32_Salad_7150991-1	f90_i018_a00	128.0	132.0	3840	3990	putting lettuce leaves into a bowl .
+4443	S30_Eggs_7150991-1	f79_i014_a00	66.0	68.0	1980	2070	opening a cabinet .
+4444	S30_Eggs_7150991-1	f79_i009_a00	37.0	40.0	1110	1230	cracking an egg into a big bowl .
+4445	S28_Brownie_7150991-1	f68_i020_a00	112.0	119.0	3360	3600	pouring brownie mix into a big bowl .
+4446	S28_Sandwich_7150991-1	f72_i016_a00	113.0	114.0	3390	3450	opening a blueberry jam jar .
+4447	S09_Pizza_7150991-1072	f11_i015_a00	100.0	111.0	3000	3360	unrolling pizza crust on a baking pan .
+4448	S09_Pizza_7150991-1072	f11_i020_a00	128.0	168.0	3840	5070	spreading tomato sauce on pizza crust with a spoon .
+4449	S30_Brownie_7150991-1	f78_i012_a00	55.0	60.0	1650	1830	taking an oil bottle from a base cabinet .
+4450	S30_Eggs_7150991-1	f79_i024_a00	115.0	118.0	3450	3570	taking an oil bottle from a base cabinet .
+4451	S32_Eggs_7150991-1	f88_i027_a00	242.0	244.0	7260	7350	opening a cabinet .
+4452	S12_Sandwich_7150991-2470	f20_i016_a00	112.0	121.0	3360	3660	spreading peanut butter on a slice of bread with a butter knife .
+4453	S16_Sandwich_7150991-1075	f38_i012_a00	70.0	72.0	2100	2190	spreading peanut butter on a slice of bread with a butter knife .
+4454	S29_Sandwich_7150991-1	f77_i021_a00	85.0	91.0	2550	2760	spreading blueberry jam on a slice of bread with a butter knife .
+4455	S09_Pizza_7150991-1072	f11_i012_a00	73.0	78.0	2190	2370	pushing the middle of a pizza crust can with a fork .
+4456	S08_Pizza_7150991-563	f06_i021_a00	206.0	208.0	6180	6270	opening a drawer .
+4457	S30_Brownie_7150991-1	f78_i033_a00	170.0	211.0	5100	6360	mixing the ingredients of brownie in a big bowl with a whisk .
+4458	S09_Brownie_7150991-1653	f09_i044_a00	353.0	358.0	10590	10770	spraying oil on a baking pan .
+4459	S32_Pizza_7150991-1	f89_i004_a00	31.0	33.0	930	1020	opening a fridge .
+4460	S09_Pizza_7150991-1072	f11_i011_a00	68.0	73.0	2040	2220	taking a fork from a drawer .
+4461	S30_Eggs_7150991-1	f79_i010_a00	41.0	43.0	1230	1320	putting an eggshell into a sink .
+4462	S16_Sandwich_7150991-1075	f38_i007_a00	35.0	38.0	1050	1170	taking slices of bread out of a bag .
+4463	S13_Sandwich_7150991-863	f24_i033_a00	202.0	203.0	6060	6120	putting a butter knife into a sink .
+4464	S11_Salad_7150991-825	f15_i003_a00	43.0	47.0	1290	1440	opening a bag of lettuce .
+4465	S32_Pizza_7150991-1	f89_i035_a00	378.0	389.0	11340	11700	grating a block cheese onto pizza crust with a cheese grater .
+4466	S29_Brownie_7150991-1	f73_i002_a00	27.0	29.0	810	900	taking a big bowl from a cabinet .
+4467	S09_Brownie_7150991-1653	f09_i050_a00	408.0	410.0	12240	12330	putting a big bowl into a sink .
+4468	S09_Pizza_7150991-1072	f11_i026_a00	201.0	204.0	6030	6150	wiping tomato sauce off a cheese grater with a paper towel .
+4469	S32_Eggs_7150991-1	f88_i005_a00	27.0	31.0	810	960	taking seasonings from a cabinet .
+4470	S32_Brownie_7150991-1	f87_i034_a00	276.0	282.0	8280	8490	tilting a baking pan .
+4471	S47_Eggs_7150991-201	f128_i004_a00	22.0	24.0	660	750	taking an oil bottle from a base cabinet .
+4472	S29_Sandwich_7150991-1	f77_i013_a00	49.0	51.0	1470	1560	spreading peanut butter on a slice of bread with a butter knife .
+4473	S07_Salad_7150991-2095	f03_i027_a00	278.0	290.0	8340	8730	putting ingredients into a fridge .
+4474	S36_Pizza_7150991-355	f109_i022_a00	215.0	219.0	6450	6600	trying to open a package of a block cheese .
+4475	S32_Pizza_7150991-1	f89_i050_a00	579.0	581.0	17370	17460	closing an oven .
+4476	S09_Salad_7150991-1874	f12_i000_a00	7.0	10.0	210	330	taking a bowl from a cabinet .
+4477	S09_Pizza_7150991-1072	f11_i002_a00	12.0	17.0	360	540	taking a baking pan from a base cabinet .
+4478	S28_Eggs_7150991-1	f69_i020_a00	87.0	93.0	2610	2820	sprinkling pepper on eggs in a big bowl .
+4479	S28_Salad_7150991-1	f71_i014_a00	131.0	134.0	3930	4050	taking a cutting board from the corner of a counter .
+4480	S30_Pizza_7150991-1	f80_i017_a00	177.0	197.0	5310	5940	spreading tomato sauce on pizza crust with a spoon .
+4481	S32_Salad_7150991-1	f90_i034_a00	367.0	370.0	11010	11130	twisting off a dressing bottle cap .
+4482	S28_Sandwich_7150991-1	f72_i004_a00	20.0	23.0	600	720	putting a bag of sliced bread and jars on a counter .
+4483	S12_Sandwich_7150991-2470	f20_i000_a00	17.0	19.0	510	600	taking a bag of sliced bread from a cabinet .
+4484	S40_Salad_7150991-195	f120_i012_a00	95.0	98.0	2850	2970	sweeping lettuce leaves on a cutting board with a kitchen knife .
+4485	S28_Salad_7150991-1	f71_i015_a00	135.0	248.0	4050	7470	cutting a carrot with a kitchen knife .
+4486	S12_Sandwich_7150991-2470	f20_i014_a00	96.0	98.0	2880	2970	opening a peanut butter jar .
+4487	S47_Eggs_7150991-201	f128_i032_a00	190.0	192.0	5700	5790	holding a hand over a frying pan .
+4488	S32_Brownie_7150991-1	f87_i004_a00	37.0	39.0	1110	1200	taking a big bowl from a cabinet .
+4489	S07_Pizza_7150991-1884	f02_i015_a00	150.0	153.0	4500	4620	taking a kitchen knife from a drawer .
+4490	S30_Pizza_7150991-1	f80_i006_a00	69.0	81.0	2070	2460	trying to open a pizza crust can with hands .
+4491	S34_Pizza_7150991-240	f99_i032_a00	445.0	470.0	13350	14130	slicing a pepperoni stick on a cutting board with a kitchen knife .
+4492	S11_Salad_7150991-825	f15_i017_a00	167.0	171.0	5010	5160	putting a bag of carrots into a fridge .
+4493	S28_Eggs_7150991-1	f69_i016_a00	65.0	69.0	1950	2100	cracking an egg into a big bowl .
+4494	S08_Pizza_7150991-563	f06_i024_a00	223.0	228.0	6690	6870	opening a package of a block cheese .
+4495	S09_Pizza_7150991-1072	f11_i032_a00	281.0	284.0	8430	8550	peeling a casing off a pepperoni slice .
+4496	S40_Eggs_7150991-185	f118_i032_a00	218.0	289.0	6540	8700	stirring eggs in a frying pan with a spatula .
+4497	S30_Brownie_7150991-1	f78_i034_a00	213.0	215.0	6390	6480	taking a towel from a counter .
+4498	S28_Salad_7150991-1	f71_i006_a00	32.0	34.0	960	1050	taking a bag of croutons from a base cabinet .
+4499	S11_Salad_7150991-825	f15_i005_a00	59.0	62.0	1770	1890	closing a bag of lettuce .
+4500	S40_Salad_7150991-195	f120_i027_a00	187.0	199.0	5610	6000	cutting a carrot with a kitchen knife .
+4501	S30_Brownie_7150991-1	f78_i016_a00	78.0	81.0	2340	2460	putting an oil bottle into a base cabinet .
+4502	S12_Brownie_7150991-1306	f16_i043_a00	426.0	430.0	12780	12930	putting a cooking spray into a base cabinet .
+4503	S30_Brownie_7150991-1	f78_i022_a00	117.0	118.0	3510	3570	opening a base cabinet .
+4504	S07_Brownie_7150991-1431	f00_i012_a00	78.0	87.0	2340	2640	pouring tap water into a big measuring cup .
+4505	S30_Eggs_7150991-1	f79_i008_a00	35.0	36.0	1050	1110	closing a drawer .
+4506	S09_Brownie_7150991-1653	f09_i032_a00	202.0	209.0	6060	6300	pouring brownie mix into a big bowl .
+4507	S28_Sandwich_7150991-1	f72_i000_a00	8.0	9.0	240	300	opening a fridge .
+4508	S12_Brownie_7150991-1306	f16_i009_a00	77.0	82.0	2310	2490	cracking an egg into a big bowl .
+4509	S09_Pizza_7150991-1072	f11_i017_a00	117.0	119.0	3510	3600	opening a drawer .
+4510	S40_Salad_7150991-195	f120_i006_a00	36.0	45.0	1080	1380	taking a lettuce head out of a bag .
+4511	S12_Brownie_7150991-1306	f16_i037_a00	270.0	335.0	8100	10080	mixing the ingredients of brownie in a big bowl with a fork .
+4512	S30_Pizza_7150991-1	f80_i015_a00	165.0	172.0	4950	5190	scooping out tomato sauce from a jar with a spoon .
+4513	S09_Pizza_7150991-1072	f11_i033_a00	288.0	298.0	8640	8970	slicing a pepperoni stick with a kitchen knife .
+4514	S36_Eggs_7150991-543	f108_i020_a00	166.0	168.0	4980	5070	opening a base cabinet .
+4515	S12_Brownie_7150991-1306	f16_i015_a00	101.0	102.0	3030	3090	opening a drawer .
+4516	S29_Eggs_7150991-1	f74_i004_a00	17.0	19.0	510	600	taking a big bowl from a cabinet .
+4517	S40_Eggs_7150991-185	f118_i008_a00	47.0	50.0	1410	1530	cracking an egg into a big bowl .
+4518	S40_Salad_7150991-195	f120_i011_a00	87.0	93.0	2610	2820	putting lettuce leaves into a bowl .
+4519	S28_Sandwich_7150991-1	f72_i018_a00	126.0	165.0	3780	4980	spreading blueberry jam on a slice of bread with a butter knife .
+4520	S32_Salad_7150991-1	f90_i005_a00	34.0	36.0	1020	1110	taking a cutting board from the corner of a counter .
+4521	S28_Eggs_7150991-1	f69_i025_a00	105.0	110.0	3150	3330	sprinkling salt on eggs in a big bowl .
+4522	S29_Sandwich_7150991-1	f77_i025_a00	106.0	108.0	3180	3270	closing a peanut butter jar .
+4523	S34_Pizza_7150991-240	f99_i015_a00	220.0	224.0	6600	6750	putting a tomato sauce jar into a fridge .
+4524	S30_Sandwich_7150991-1	f81_i020_a00	111.0	114.0	3330	3450	scooping out peanut butter from a jar with a butter knife .
+4525	S09_Salad_7150991-1874	f12_i006_a00	64.0	66.0	1920	2010	taking a carrot out of a bag .
+4526	S09_Brownie_7150991-1653	f09_i000_a00	7.0	8.0	210	270	opening a cabinet .
+4527	S09_Brownie_7150991-1653	f09_i041_a00	345.0	347.0	10350	10440	taking a cooking spray from a base cabinet .
+4528	S13_Sandwich_7150991-863	f24_i017_a00	97.0	101.0	2910	3060	spreading peanut butter on a slice of bread with a butter knife .
+4529	S29_Brownie_7150991-1	f73_i014_a00	75.0	78.0	2250	2370	cracking an egg into a big bowl .
+4530	S28_Brownie_7150991-1	f68_i014_a00	74.0	76.0	2220	2310	putting an oil bottle into a base cabinet .
+4531	S47_Eggs_7150991-201	f128_i011_a00	45.0	50.0	1350	1530	taking eggs from an egg carton in a fridge .
+4532	S11_Salad_7150991-825	f15_i012_a00	132.0	134.0	3960	4050	putting a bag of zucchini into a fridge .
+4533	S09_Pizza_7150991-1072	f11_i018_a00	121.0	123.0	3630	3720	taking a spoon from a drawer .
+4534	S36_Eggs_7150991-543	f108_i035_a00	304.0	421.0	9120	12660	stirring eggs in a frying pan with a spatula .
+4535	S32_Brownie_7150991-1	f87_i024_a00	143.0	148.0	4290	4470	pouring oil into a big bowl .
+4536	S28_Brownie_7150991-1	f68_i027_a00	280.0	286.0	8400	8610	taking a baking pan out of an oven .
+4537	S30_Brownie_7150991-1	f78_i023_a00	119.0	121.0	3570	3660	taking a box of brownie mix from a base cabinet .
+4538	S09_Pizza_7150991-1072	f11_i034_a00	300.0	304.0	9000	9150	peeling a casing off a pepperoni slice .
+4539	S13_Sandwich_7150991-863	f24_i012_a00	77.0	79.0	2310	2400	separating two slices of bread on a paper plate .
+4540	S47_Eggs_7150991-201	f128_i029_a00	137.0	143.0	4110	4320	taking paper plates from a cabinet .
+4541	S12_Brownie_7150991-1306	f16_i039_a00	412.0	414.0	12360	12450	shaking a cooking spray .
+4542	S40_Eggs_7150991-185	f118_i018_a00	112.0	117.0	3360	3540	pouring oil into a frying pan .
+4543	S11_Salad_7150991-825	f15_i010_a00	114.0	124.0	3420	3750	slicing a zucchini into a bowl with a kitchen knife .
+4544	S11_Salad_7150991-825	f15_i027_a00	240.0	244.0	7200	7350	opening a dressing bottle .
+4545	S30_Pizza_7150991-1	f80_i032_a00	417.0	421.0	12510	12660	putting a baking pan into an oven .
+4546	S28_Salad_7150991-1	f71_i009_a00	48.0	64.0	1440	1950	peeling a zucchini with a peeler .
+4547	S12_Brownie_7150991-1306	f16_i021_a00	145.0	150.0	4350	4530	pouring water into a big bowl .
+4548	S07_Brownie_7150991-1431	f00_i023_a00	157.0	162.0	4710	4890	taking scissors from a drawer .
+4549	S09_Pizza_7150991-1072	f11_i019_a00	124.0	126.0	3720	3810	opening a tomato sauce jar .
+4550	S36_Eggs_7150991-543	f108_i029_a00	223.0	225.0	6690	6780	holding a hand over a frying pan .
+4551	S29_Eggs_7150991-1	f74_i019_a00	67.0	70.0	2010	2130	sprinkling salt on eggs in a big bowl .
+4552	S32_Brownie_7150991-1	f87_i021_a00	125.0	128.0	3750	3870	taking an oil bottle from a base cabinet .
+4553	S36_Eggs_7150991-543	f108_i012_a00	76.0	78.0	2280	2370	taking a fork from a drawer .
+4554	S32_Pizza_7150991-1	f89_i049_a00	574.0	579.0	17220	17400	putting a baking pan into an oven .
+4555	S30_Eggs_7150991-1	f79_i017_a00	73.0	74.0	2190	2250	putting a salt bottle into a cabinet .
+4556	S16_Sandwich_7150991-1075	f38_i017_a00	106.0	108.0	3180	3270	closing a peanut butter jar .
+4557	S40_Eggs_7150991-185	f118_i016_a00	106.0	108.0	3180	3270	turning on a gas stove .
+4558	S32_Eggs_7150991-1	f88_i003_a00	21.0	23.0	630	720	opening a base cabinet .
+4559	S28_Sandwich_7150991-1	f72_i008_a00	38.0	47.0	1140	1440	closing a bag of sliced bread with a twist tie .
+4560	S30_Pizza_7150991-1	f80_i028_a00	322.0	348.0	9660	10470	slicing a pepperoni stick on a cutting board with a kitchen knife .
+4561	S30_Eggs_7150991-1	f79_i001_a00	12.0	19.0	360	600	taking eggs from an egg carton in a fridge .
+4562	S13_Sandwich_7150991-863	f24_i025_a00	158.0	160.0	4740	4830	rubbing a butter knife against a slice of bread .
+4563	S12_Brownie_7150991-1306	f16_i032_a00	223.0	227.0	6690	6840	trying to open a bag of brownie mix .
+4564	S40_Eggs_7150991-185	f118_i011_a00	60.0	62.0	1800	1890	taking a frying pan from a cabinet .
+4565	S30_Eggs_7150991-1	f79_i029_a00	130.0	131.0	3900	3960	closing a base cabinet .
+4566	S28_Salad_7150991-1	f71_i001_a00	10.0	14.0	300	450	taking ingredients from a fridge .
+4567	S40_Salad_7150991-195	f120_i030_a00	209.0	211.0	6270	6360	putting carrot pieces into a bowl .
+4568	S28_Sandwich_7150991-1	f72_i002_a00	11.0	15.0	330	480	taking jars from a fridge .
+4569	S32_Eggs_7150991-1	f88_i026_a00	183.0	240.0	5490	7230	stirring eggs in a frying pan with a spatula .
+4570	S36_Pizza_7150991-355	f109_i000_a00	8.0	11.0	240	360	pressing the buttons on an oven .
+4571	S12_Sandwich_7150991-2470	f20_i027_a00	178.0	179.0	5340	5400	putting a butter knife into a sink .
+4572	S32_Pizza_7150991-1	f89_i003_a00	25.0	29.0	750	900	pressing the buttons on an oven .
+4573	S08_Pizza_7150991-563	f06_i015_a00	117.0	118.0	3510	3570	taking a spoon from a drawer .
+4574	S07_Salad_7150991-2095	f03_i026_a00	268.0	275.0	8040	8280	putting ingredients into a fridge .
+4575	S09_Salad_7150991-1874	f12_i018_a00	190.0	192.0	5700	5790	tearing a celery stalk off a celery head .
+4576	S16_Sandwich_7150991-1075	f38_i022_a00	141.0	143.0	4230	4320	putting a slice of bread on top of another slice of bread .
+4577	S29_Eggs_7150991-1	f74_i021_a00	80.0	82.0	2400	2490	sprinkling pepper on eggs in a big bowl .
+4578	S30_Eggs_7150991-1	f79_i015_a00	68.0	70.0	2040	2130	taking a salt bottle from a cabinet .
+4579	S32_Salad_7150991-1	f90_i025_a00	265.0	271.0	7950	8160	putting celery stalk slices into a bowl .
+4580	S12_Brownie_7150991-1306	f16_i046_a00	450.0	452.0	13500	13590	putting a fork into a sink .
+4581	S32_Brownie_7150991-1	f87_i030_a00	225.0	231.0	6750	6960	taking a cap off a cooking spray .
+4582	S30_Pizza_7150991-1	f80_i010_a00	112.0	121.0	3360	3660	opening a pizza crust can with hands .
+4583	S40_Eggs_7150991-185	f118_i030_a00	181.0	193.0	5430	5820	pouring beaten eggs into a frying pan .
+4584	S36_Pizza_7150991-355	f109_i034_a00	410.0	489.0	12300	14700	peeling a casing off pepperoni slices .
+4585	S28_Sandwich_7150991-1	f72_i007_a00	33.0	36.0	990	1110	taking slices of bread out of a bag .
+4586	S29_Brownie_7150991-1	f73_i035_a00	262.0	264.0	7860	7950	opening an oven .
+4587	S28_Brownie_7150991-1	f68_i029_a00	292.0	293.0	8760	8820	taking a cap off a cooking spray .
+4588	S29_Eggs_7150991-1	f74_i012_a00	48.0	50.0	1440	1530	cracking an egg into a big bowl .
+4589	S30_Brownie_7150991-1	f78_i048_a00	294.0	295.0	8820	8880	opening an oven .
+4590	S36_Pizza_7150991-355	f109_i007_a00	40.0	54.0	1200	1650	peeling off the label of a pizza crust can .
+4591	S32_Pizza_7150991-1	f89_i006_a00	42.0	44.0	1260	1350	closing a fridge .
+4592	S07_Brownie_7150991-1431	f00_i010_a00	58.0	62.0	1740	1890	cracking an egg into a big bowl with a fork .
+4593	S29_Sandwich_7150991-1	f77_i002_a00	13.0	16.0	390	510	taking jars from a fridge .
+4594	S09_Brownie_7150991-1653	f09_i010_a00	72.0	74.0	2160	2250	taking a paper towel from a paper towel roll .
+4595	S29_Brownie_7150991-1	f73_i028_a00	157.0	200.0	4710	6030	mixing the ingredients of brownie in a big bowl with a whisk .
+4596	S28_Brownie_7150991-1	f68_i035_a00	384.0	391.0	11520	11760	putting a baking pan into an oven .
+4597	S32_Salad_7150991-1	f90_i023_a00	231.0	233.0	6930	7020	tearing a celery stalk off a celery head .
+4598	S13_Sandwich_7150991-863	f24_i020_a00	111.0	113.0	3330	3420	rubbing a butter knife against a slice of bread .
+4599	S28_Eggs_7150991-1	f69_i033_a00	295.0	309.0	8850	9300	stirring eggs in a frying pan with a spatula .
+4600	S12_Sandwich_7150991-2470	f20_i025_a00	165.0	167.0	4950	5040	scooping out blueberry jam from a jar with a butter knife .
+4601	S32_Pizza_7150991-1	f89_i032_a00	356.0	361.0	10680	10860	spreading grated cheese on pizza crust .
+4602	S32_Brownie_7150991-1	f87_i017_a00	102.0	106.0	3060	3210	pouring water into a big bowl .
+4603	S34_Pizza_7150991-240	f99_i036_a00	490.0	492.0	14700	14790	putting a pepperoni stick into a package .
+4604	S36_Eggs_7150991-543	f108_i013_a00	82.0	133.0	2460	4020	beating eggs with a whisk .
+4605	S47_Eggs_7150991-201	f128_i031_a00	175.0	178.0	5250	5370	swirling oil around in a frying pan .
+4606	S36_Pizza_7150991-355	f109_i033_a00	350.0	407.0	10500	12240	slicing a pepperoni stick on a cutting board with a kitchen knife .
+4607	S07_Salad_7150991-2095	f03_i017_a00	199.0	206.0	5970	6210	taking a celery stalk out of a bag .
+4608	S36_Eggs_7150991-543	f108_i014_a00	138.0	140.0	4140	4230	opening a cabinet .
+4609	S12_Brownie_7150991-1306	f16_i048_a00	468.0	470.0	14040	14130	putting a big bowl into a sink .
+4610	S07_Salad_7150991-2095	f03_i015_a00	187.0	191.0	5610	5760	putting a zucchini into a bag .
+4611	S29_Sandwich_7150991-1	f77_i009_a00	35.0	37.0	1050	1140	taking a butter knife from a drawer .
+4612	S40_Eggs_7150991-185	f118_i037_a00	314.0	315.0	9420	9480	turning off a gas stove .
+4613	S12_Sandwich_7150991-2470	f20_i029_a00	184.0	186.0	5520	5610	closing a blueberry jam jar .
+4614	S09_Pizza_7150991-1072	f11_i037_a00	316.0	330.0	9480	9930	pressing the buttons on an oven .
+4615	S08_Pizza_7150991-563	f06_i016_a00	118.0	141.0	3540	4260	flattening pizza crust with hands .
+4616	S34_Pizza_7150991-240	f99_i012_a00	153.0	155.0	4590	4680	taking a tomato sauce jar from a fridge .
+4617	S29_Sandwich_7150991-1	f77_i017_a00	63.0	69.0	1890	2100	spreading peanut butter on a slice of bread with a butter knife .
+4618	S28_Salad_7150991-1	f71_i028_a00	388.0	393.0	11640	11820	opening a bag of croutons .
+4619	S32_Brownie_7150991-1	f87_i001_a00	15.0	21.0	450	660	taking a baking pan out of an oven .
+4620	S29_Eggs_7150991-1	f74_i027_a00	105.0	108.0	3150	3270	putting an oil bottle into a base cabinet .
+4621	S28_Salad_7150991-1	f71_i020_a00	293.0	303.0	8790	9120	piling up zucchini slices on a cutting board .
+4622	S28_Brownie_7150991-1	f68_i004_a00	24.0	25.0	720	780	opening a cabinet .
+4623	S07_Brownie_7150991-1431	f00_i001_a00	24.0	26.0	720	810	taking a small measuring cup from a cabinet .
+4624	S32_Pizza_7150991-1	f89_i011_a00	70.0	87.0	2100	2640	opening a pizza crust can with hands .
+4625	S29_Eggs_7150991-1	f74_i031_a00	131.0	139.0	3930	4200	pouring beaten eggs into a frying pan .
+4626	S32_Brownie_7150991-1	f87_i027_a00	156.0	218.0	4680	6570	mixing the ingredients of brownie in a big bowl with a whisk .
+4627	S32_Brownie_7150991-1	f87_i023_a00	133.0	141.0	3990	4260	pouring oil into a small measuring cup .
+4628	S30_Brownie_7150991-1	f78_i043_a00	249.0	252.0	7470	7590	putting a cap on a cooking spray .
+4629	S32_Salad_7150991-1	f90_i004_a00	31.0	33.0	930	1020	putting ingredients on a counter .
+4630	S36_Pizza_7150991-355	f109_i014_a00	120.0	121.0	3600	3660	opening a tomato sauce jar .
+4631	S13_Sandwich_7150991-863	f24_i018_a00	102.0	103.0	3060	3120	scooping out peanut butter from a jar with a butter knife .
+4632	S13_Sandwich_7150991-863	f24_i004_a00	28.0	29.0	840	900	putting jars on a counter .
+4633	S32_Brownie_7150991-1	f87_i025_a00	150.0	152.0	4500	4590	putting a cap on a cooking spray .
+4634	S08_Pizza_7150991-563	f06_i020_a00	201.0	205.0	6030	6180	putting a tomato sauce jar into a fridge .
+4635	S12_Brownie_7150991-1306	f16_i036_a00	267.0	269.0	8010	8100	putting a bag into a sink .
+4636	S08_Pizza_7150991-563	f06_i011_a00	69.0	102.0	2070	3090	opening a pizza crust can with hands .
+4637	S40_Salad_7150991-195	f120_i029_a00	206.0	208.0	6180	6270	cutting a carrot with a kitchen knife .
+4638	S28_Brownie_7150991-1	f68_i016_a00	87.0	91.0	2610	2760	cracking an egg into a big bowl .
+4639	S09_Brownie_7150991-1653	f09_i002_a00	20.0	24.0	600	750	taking a big bowl from a cabinet .
+4640	S32_Eggs_7150991-1	f88_i018_a00	90.0	93.0	2700	2820	wiping hands with a towel .
+4641	S28_Brownie_7150991-1	f68_i013_a00	72.0	74.0	2160	2250	putting a cap on an oil bottle .
+4642	S30_Sandwich_7150991-1	f81_i008_a00	27.0	28.0	810	870	closing a base cabinet .
+4643	S28_Sandwich_7150991-1	f72_i010_a00	53.0	55.0	1590	1680	opening a peanut butter jar .
+4644	S16_Sandwich_7150991-1075	f38_i004_a00	19.0	21.0	570	660	taking jars from a fridge .
+4645	S30_Eggs_7150991-1	f79_i021_a00	82.0	83.0	2460	2520	opening a cabinet .
+4646	S28_Salad_7150991-1	f71_i016_a00	250.0	253.0	7500	7620	taking a bowl from a cabinet .
+4647	S07_Brownie_7150991-1431	f00_i022_a00	150.0	157.0	4500	4740	trying to open a bag of brownie mix .
+4648	S29_Brownie_7150991-1	f73_i025_a00	133.0	136.0	3990	4110	piercing a bag of brownie mix with a fork .
+4649	S30_Sandwich_7150991-1	f81_i022_a00	139.0	141.0	4170	4260	putting a slice of bread on top of another slice of bread .
+4650	S36_Pizza_7150991-355	f109_i028_a00	282.0	292.0	8460	8790	spreading grated cheese on pizza crust .
+4651	S30_Pizza_7150991-1	f80_i013_a00	161.0	163.0	4830	4920	opening a drawer .
+4652	S07_Brownie_7150991-1431	f00_i034_a00	290.0	317.0	8700	9540	pouring brownie batter into a baking pan with a fork .
+4653	S28_Eggs_7150991-1	f69_i003_a00	18.0	20.0	540	630	taking a big bowl from a cabinet .
+4654	S29_Sandwich_7150991-1	f77_i024_a00	103.0	105.0	3090	3180	closing a blueberry jam jar .
+4655	S16_Sandwich_7150991-1075	f38_i014_a00	79.0	87.0	2370	2640	spreading peanut butter on a slice of bread with a butter knife .
+4656	S07_Salad_7150991-2095	f03_i006_a00	93.0	94.0	2790	2850	putting lettuce leaves into a bowl .
+4657	S08_Pizza_7150991-563	f06_i008_a00	45.0	53.0	1350	1620	peeling off the label of a pizza crust can .
+4658	S40_Eggs_7150991-185	f118_i019_a00	117.0	119.0	3510	3600	putting a cap on an oil bottle .
+4659	S36_Eggs_7150991-543	f108_i032_a00	289.0	291.0	8670	8760	opening a cabinet .
+4660	S09_Brownie_7150991-1653	f09_i011_a00	74.0	77.0	2220	2340	wiping hands with a paper towel .
+4661	S12_Sandwich_7150991-2470	f20_i005_a00	37.0	38.0	1110	1170	putting a jar into a fridge .
+4662	S28_Eggs_7150991-1	f69_i029_a00	167.0	172.0	5010	5190	swirling oil around in a frying pan with a spatula .
+4663	S29_Sandwich_7150991-1	f77_i014_a00	52.0	53.0	1560	1620	scooping out peanut butter from a jar with a butter knife .
+4664	S47_Eggs_7150991-201	f128_i020_a00	81.0	85.0	2430	2580	sprinkling salt on eggs in a big bowl .
+4665	S07_Brownie_7150991-1431	f00_i017_a00	113.0	115.0	3390	3480	putting a cap on an oil bottle .
+4666	S30_Eggs_7150991-1	f79_i030_a00	131.0	136.0	3930	4110	swirling oil around in a frying pan .
+4667	S09_Brownie_7150991-1653	f09_i006_a00	47.0	48.0	1410	1470	opening a fridge .
+4668	S28_Brownie_7150991-1	f68_i019_a00	103.0	111.0	3090	3360	opening a bag of brownie mix .
+4669	S11_Salad_7150991-825	f15_i015_a00	155.0	163.0	4650	4920	cutting a carrot into a bowl with a kitchen knife .
+4670	S16_Sandwich_7150991-1075	f38_i020_a00	119.0	121.0	3570	3660	scooping out blueberry jam from a jar with a spoon .
+4671	S32_Eggs_7150991-1	f88_i009_a00	42.0	44.0	1260	1350	turning on a gas stove .
+4672	S32_Pizza_7150991-1	f89_i021_a00	195.0	226.0	5850	6810	spreading tomato sauce on pizza crust with a spoon .
+4673	S30_Eggs_7150991-1	f79_i020_a00	79.0	81.0	2370	2460	putting a pepper bottle into a cabinet .
+4674	S30_Brownie_7150991-1	f78_i026_a00	134.0	135.0	4020	4080	opening a drawer .
+4675	S36_Pizza_7150991-355	f109_i008_a00	58.0	63.0	1740	1920	taking a baking pan out of an oven .
+4676	S07_Salad_7150991-2095	f03_i003_a00	68.0	70.0	2040	2130	taking a peeler from a drawer .
+4677	S28_Salad_7150991-1	f71_i031_a00	407.0	410.0	12210	12330	pouring dressing on a salad .
+4678	S30_Brownie_7150991-1	f78_i036_a00	219.0	222.0	6570	6690	taking a baking pan out of an oven .
+4679	S28_Eggs_7150991-1	f69_i005_a00	24.0	28.0	720	870	taking a frying pan from a cabinet .
+4680	S28_Salad_7150991-1	f71_i011_a00	88.0	121.0	2640	3660	peeling a carrot with a peeler .
+4681	S47_Eggs_7150991-201	f128_i015_a00	59.0	60.0	1770	1830	closing a cabinet .
+4682	S32_Brownie_7150991-1	f87_i020_a00	124.0	125.0	3720	3780	opening a base cabinet .
+4683	S12_Sandwich_7150991-2470	f20_i002_a00	31.0	32.0	930	990	opening a fridge .
+4684	S08_Pizza_7150991-563	f06_i000_a00	12.0	14.0	360	450	opening a fridge .
+4685	S08_Pizza_7150991-563	f06_i036_a00	411.0	417.0	12330	12540	slicing a pepperoni stick with a kitchen knife .
+4686	S32_Salad_7150991-1	f90_i003_a00	23.0	30.0	690	930	closing a fridge .
+4687	S28_Sandwich_7150991-1	f72_i006_a00	28.0	30.0	840	930	twisting off a twist tie from a bag of sliced bread .
+4688	S29_Eggs_7150991-1	f74_i001_a00	11.0	12.0	330	390	opening a cabinet .
+4689	S09_Brownie_7150991-1653	f09_i033_a00	212.0	232.0	6360	6990	mixing the ingredients of brownie in a big bowl with a fork .
+4690	S12_Brownie_7150991-1306	f16_i012_a00	91.0	92.0	2730	2790	putting a cracked eggshell into a sink .
+4691	S09_Brownie_7150991-1653	f09_i034_a00	233.0	244.0	6990	7350	pouring brownie mix into a big bowl .
+4692	S08_Pizza_7150991-563	f06_i022_a00	208.0	209.0	6240	6300	taking a kitchen knife from a drawer .
+4693	S40_Salad_7150991-195	f120_i025_a00	163.0	165.0	4890	4980	taking a peeler from a drawer .
+4694	S11_Salad_7150991-825	f15_i002_a00	34.0	40.0	1020	1230	taking a dressing bottle from a fridge .
+4695	S28_Eggs_7150991-1	f69_i034_a00	314.0	321.0	9420	9660	putting scrambled eggs on a paper plate .
+4696	S09_Brownie_7150991-1653	f09_i048_a00	377.0	403.0	11310	12120	pouring brownie batter into a baking pan with a fork .
+4697	S28_Salad_7150991-1	f71_i010_a00	72.0	85.0	2160	2580	taking a carrot out of a bag .
+4698	S29_Brownie_7150991-1	f73_i020_a00	111.0	114.0	3330	3450	pouring oil into a big bowl .
+4699	S29_Eggs_7150991-1	f74_i007_a00	24.0	26.0	720	810	taking seasonings from a cabinet .
+4700	S29_Eggs_7150991-1	f74_i033_a00	199.0	201.0	5970	6060	turning off a gas stove .
+4701	S30_Brownie_7150991-1	f78_i045_a00	254.0	257.0	7620	7740	putting a cooking spray into a base cabinet .
+4702	S32_Salad_7150991-1	f90_i029_a00	339.0	341.0	10170	10260	taking a bag of croutons from a base cabinet .
+4703	S28_Salad_7150991-1	f71_i032_a00	411.0	415.0	12330	12480	putting a cap on a dressing bottle .
+4704	S07_Salad_7150991-2095	f03_i012_a00	151.0	161.0	4530	4860	peeling a zucchini with a peeler .
+4705	S07_Salad_7150991-2095	f03_i004_a00	76.0	87.0	2280	2640	taking leaves off a lettuce head .
+4706	S28_Salad_7150991-1	f71_i013_a00	125.0	126.0	3750	3810	taking a kitchen knife from a drawer .
+4707	S28_Eggs_7150991-1	f69_i007_a00	31.0	32.0	930	990	opening a base cabinet .
+4708	S07_Brownie_7150991-1431	f00_i009_a00	51.0	55.0	1530	1680	cracking an egg into a big bowl with a fork .
+4709	S36_Pizza_7150991-355	f109_i030_a00	310.0	314.0	9300	9450	spreading grated cheese on pizza crust .
+4710	S34_Pizza_7150991-240	f99_i033_a00	471.0	476.0	14130	14310	putting pepperoni slices on pizza crust .
+4711	S36_Pizza_7150991-355	f109_i012_a00	90.0	112.0	2700	3390	stretching pizza crust with hands .
+4712	S11_Salad_7150991-825	f15_i004_a00	48.0	58.0	1440	1770	taking leaves from a lettuce head into a bowl .
+4713	S29_Eggs_7150991-1	f74_i014_a00	54.0	57.0	1620	1740	taking an oil bottle from a base cabinet .
+4714	S11_Salad_7150991-825	f15_i026_a00	236.0	237.0	7080	7140	putting a bag of croutons into a cabinet .
+4715	S30_Sandwich_7150991-1	f81_i005_a00	20.0	21.0	600	660	putting jars on a counter .
+4716	S28_Brownie_7150991-1	f68_i007_a00	33.0	35.0	990	1080	pouring tap water into a big measuring cup .
+4717	S40_Eggs_7150991-185	f118_i024_a00	150.0	152.0	4500	4590	sprinkling salt on eggs in a big bowl .
+4718	S30_Brownie_7150991-1	f78_i015_a00	74.0	77.0	2220	2340	putting a cap on an oil bottle .
+4719	S36_Pizza_7150991-355	f109_i013_a00	117.0	119.0	3510	3600	shaking a tomato sauce jar .
+4720	S30_Brownie_7150991-1	f78_i013_a00	61.0	63.0	1830	1920	twisting off an oil bottle cap .
+4721	S29_Eggs_7150991-1	f74_i013_a00	52.0	54.0	1560	1650	opening a base cabinet .
+4722	S28_Brownie_7150991-1	f68_i024_a00	170.0	180.0	5100	5430	pouring oil into a big bowl .
+4723	S16_Sandwich_7150991-1075	f38_i011_a00	64.0	67.0	1920	2040	scooping out peanut butter from a jar with a butter knife .
+4724	S30_Brownie_7150991-1	f78_i021_a00	106.0	110.0	3180	3330	cracking an egg into a big bowl .
+4725	S32_Brownie_7150991-1	f87_i011_a00	65.0	68.0	1950	2070	taking a big measuring cup from a cabinet .
+4726	S32_Pizza_7150991-1	f89_i022_a00	230.0	233.0	6900	7020	taking a cutting board from the corner of a counter .
+4727	S13_Sandwich_7150991-863	f24_i019_a00	104.0	110.0	3120	3330	spreading peanut butter on a slice of bread with a butter knife .
+4728	S32_Pizza_7150991-1	f89_i047_a00	560.0	567.0	16800	17040	putting pepperoni slices on pizza crust .
+4729	S29_Eggs_7150991-1	f74_i026_a00	102.0	104.0	3060	3150	putting a cap on an oil bottle .
+4730	S36_Pizza_7150991-355	f109_i018_a00	176.0	183.0	5280	5520	taking a baking pan from the left of a counter .
+4731	S07_Brownie_7150991-1431	f00_i030_a00	246.0	256.0	7380	7710	taking a baking pan from a base cabinet .
+4732	S40_Eggs_7150991-185	f118_i035_a00	298.0	303.0	8940	9120	stirring eggs in a frying pan with a spatula .
+4733	S40_Salad_7150991-195	f120_i033_a00	236.0	241.0	7080	7260	slicing a zucchini with a kitchen knife .
+4734	S47_Eggs_7150991-201	f128_i034_a00	240.0	345.0	7200	10380	stirring eggs in a frying pan with a spatula .
+4735	S08_Pizza_7150991-563	f06_i032_a00	321.0	362.0	9630	10890	slicing a pepperoni stick with a kitchen knife .
+4736	S36_Eggs_7150991-543	f108_i011_a00	73.0	76.0	2190	2310	taking a whisk from a drawer .
+4737	S12_Brownie_7150991-1306	f16_i005_a00	35.0	38.0	1050	1170	taking a box of brownie mix from a cabinet .
+4738	S30_Sandwich_7150991-1	f81_i017_a00	82.0	98.0	2460	2970	spreading blueberry jam on a slice of bread with a butter knife .
+4739	S32_Salad_7150991-1	f90_i036_a00	375.0	378.0	11250	11370	putting a cap on a dressing bottle .
+4740	S09_Pizza_7150991-1072	f11_i010_a00	65.0	67.0	1950	2040	opening a drawer .
+4741	S34_Pizza_7150991-240	f99_i034_a00	477.0	486.0	14310	14610	slicing a pepperoni stick on a cutting board with a kitchen knife .
+4742	S32_Pizza_7150991-1	f89_i031_a00	326.0	355.0	9780	10680	grating a block cheese onto pizza crust with a cheese grater .
+4743	S28_Eggs_7150991-1	f69_i012_a00	43.0	45.0	1290	1380	putting an oil bottle into a base cabinet .
+4744	S34_Pizza_7150991-240	f99_i020_a00	254.0	254.0	7620	7650	cutting the package of a block cheese with a kitchen knife .
+4745	S40_Salad_7150991-195	f120_i008_a00	55.0	65.0	1650	1980	taking leaves off a lettuce head .
+4746	S34_Pizza_7150991-240	f99_i011_a00	151.0	153.0	4530	4620	opening a fridge .
+4747	S16_Sandwich_7150991-1075	f38_i003_a00	17.0	18.0	510	570	opening a fridge .
+4748	S36_Pizza_7150991-355	f109_i023_a00	220.0	223.0	6600	6720	taking a kitchen knife from a drawer .
+4749	S36_Pizza_7150991-355	f109_i009_a00	66.0	69.0	1980	2100	wringing a pizza crust can with hands .
+4750	S07_Salad_7150991-2095	f03_i022_a00	239.0	245.0	7170	7380	putting croutons on a salad .
+4751	S32_Pizza_7150991-1	f89_i033_a00	365.0	374.0	10950	11250	grating a block cheese onto pizza crust with a cheese grater .
+4752	S30_Pizza_7150991-1	f80_i016_a00	173.0	176.0	5190	5310	closing a tomato sauce jar .
+4753	S30_Brownie_7150991-1	f78_i010_a00	49.0	51.0	1470	1560	taking a small measuring cup from a cabinet .
+4754	S09_Salad_7150991-1874	f12_i019_a00	194.0	197.0	5820	5940	closing a bag of celery .
+4755	S36_Eggs_7150991-543	f108_i004_a00	29.0	32.0	870	990	taking a big bowl from a cabinet .
+4756	S30_Eggs_7150991-1	f79_i019_a00	77.0	79.0	2310	2400	sprinkling pepper on eggs in a big bowl .
+4757	S34_Pizza_7150991-240	f99_i005_a00	47.0	48.0	1410	1470	wringing a pizza crust can with hands .
+4758	S29_Eggs_7150991-1	f74_i029_a00	115.0	117.0	3450	3540	swirling oil around in a frying pan .
+4759	S40_Salad_7150991-195	f120_i032_a00	220.0	232.0	6600	6990	peeling a zucchini with a peeler .
+4760	S09_Pizza_7150991-1072	f11_i021_a00	168.0	170.0	5040	5130	putting a spoon into a sink .
+4761	S28_Salad_7150991-1	f71_i017_a00	254.0	265.0	7620	7980	putting carrot slices into a bowl .
+4762	S30_Eggs_7150991-1	f79_i002_a00	20.0	22.0	600	690	putting eggs on a counter .
+4763	S12_Sandwich_7150991-2470	f20_i022_a00	153.0	155.0	4590	4680	spreading blueberry jam on a slice of bread with a butter knife .
+4764	S40_Eggs_7150991-185	f118_i027_a00	163.0	173.0	4890	5220	beating eggs with a whisk .
+4765	S09_Brownie_7150991-1653	f09_i055_a00	441.0	443.0	13230	13320	closing an oven .
+4766	S13_Sandwich_7150991-863	f24_i026_a00	164.0	166.0	4920	5010	closing a blueberry jam jar .
+4767	S07_Pizza_7150991-1884	f02_i008_a00	88.0	91.0	2640	2760	taking a spoon from a drawer .
+4768	S32_Brownie_7150991-1	f87_i000_a00	8.0	12.0	240	390	pressing the buttons on an oven .
+4769	S36_Eggs_7150991-543	f108_i028_a00	200.0	215.0	6000	6480	swirling oil around in a frying pan with a spatula .
+4770	S07_Salad_7150991-2095	f03_i008_a00	108.0	118.0	3240	3570	peeling a carrot with a peeler .
+4771	S09_Pizza_7150991-1072	f11_i036_a00	309.0	314.0	9270	9450	putting pepperoni slices on pizza crust .
+4772	S08_Pizza_7150991-563	f06_i030_a00	304.0	312.0	9120	9390	opening a package of a pepperoni stick .
+4773	S30_Pizza_7150991-1	f80_i012_a00	158.0	160.0	4740	4830	opening a tomato sauce jar .
+4774	S12_Brownie_7150991-1306	f16_i008_a00	62.0	68.0	1860	2070	taking eggs from an egg carton in a fridge .
+4775	S30_Brownie_7150991-1	f78_i035_a00	216.0	218.0	6480	6570	opening an oven .
+4776	S09_Brownie_7150991-1653	f09_i045_a00	359.0	363.0	10770	10920	putting a cap on a cooking spray .
+4777	S07_Brownie_7150991-1431	f00_i024_a00	174.0	176.0	5220	5310	pouring brownie mix into a big bowl .
+4778	S28_Brownie_7150991-1	f68_i021_a00	121.0	128.0	3630	3870	opening a bag of brownie mix .
+4779	S07_Brownie_7150991-1431	f00_i000_a00	17.0	23.0	510	720	taking a big bowl from a cabinet .
+4780	S40_Salad_7150991-195	f120_i035_a00	248.0	250.0	7440	7530	putting a zucchini into a bag .
+4781	S07_Salad_7150991-2095	f03_i021_a00	235.0	238.0	7050	7170	opening a bag of croutons .
+4782	S29_Eggs_7150991-1	f74_i022_a00	83.0	93.0	2490	2820	beating eggs with a whisk .
+4783	S32_Brownie_7150991-1	f87_i019_a00	114.0	119.0	3420	3600	cracking an egg into a big bowl .
+4784	S32_Pizza_7150991-1	f89_i041_a00	485.0	504.0	14550	15150	slicing a pepperoni stick on a cutting board with a kitchen knife .
+4785	S36_Eggs_7150991-543	f108_i034_a00	295.0	297.0	8850	8940	closing a cabinet .
+4786	S32_Pizza_7150991-1	f89_i030_a00	312.0	323.0	9360	9720	taking a block cheese halfway out of a package .
+4787	S28_Sandwich_7150991-1	f72_i003_a00	16.0	18.0	480	570	closing a fridge .
+4788	S30_Brownie_7150991-1	f78_i005_a00	33.0	34.0	990	1050	closing a cabinet .
+4789	S32_Brownie_7150991-1	f87_i015_a00	85.0	95.0	2550	2880	pouring brownie mix into a big bowl .
+4790	S30_Eggs_7150991-1	f79_i000_a00	9.0	11.0	270	360	opening a fridge .
+4791	S30_Sandwich_7150991-1	f81_i004_a00	18.0	19.0	540	600	closing a fridge .
+4792	S40_Salad_7150991-195	f120_i031_a00	214.0	218.0	6420	6570	taking a zucchini out of a bag .
+4793	S11_Salad_7150991-825	f15_i021_a00	210.0	215.0	6300	6480	putting a bag of celery into a fridge .
+4794	S36_Pizza_7150991-355	f109_i002_a00	14.0	17.0	420	540	taking ingredients from a fridge .
+4795	S07_Brownie_7150991-1431	f00_i013_a00	87.0	92.0	2610	2790	pouring water into a big bowl .
+4796	S32_Eggs_7150991-1	f88_i004_a00	23.0	27.0	690	840	taking an oil bottle from a base cabinet .
+4797	S16_Sandwich_7150991-1075	f38_i018_a00	110.0	114.0	3300	3450	taking a spoon from a drawer .
+4798	S07_Pizza_7150991-1884	f02_i021_a00	186.0	188.0	5580	5670	putting a pepperoni slice on pizza crust .
+4799	S36_Eggs_7150991-543	f108_i025_a00	186.0	188.0	5580	5670	opening a drawer .
+4800	S32_Eggs_7150991-1	f88_i002_a00	14.0	17.0	420	540	taking a big bowl from a cabinet .
+4801	S16_Sandwich_7150991-1075	f38_i013_a00	73.0	77.0	2190	2340	scooping out peanut butter from a jar with a butter knife .
+4802	S08_Pizza_7150991-563	f06_i031_a00	314.0	321.0	9420	9660	peeling a casing off a pepperoni stick .
+4803	S32_Brownie_7150991-1	f87_i005_a00	40.0	41.0	1200	1260	opening a cabinet .
+4804	S32_Pizza_7150991-1	f89_i038_a00	419.0	458.0	12570	13770	slicing a pepperoni stick on a cutting board with a kitchen knife .
+4805	S32_Eggs_7150991-1	f88_i020_a00	107.0	110.0	3210	3330	sprinkling salt on eggs in a big bowl .
+4806	S47_Eggs_7150991-201	f128_i024_a00	90.0	92.0	2700	2790	putting a pepper bottle into a cabinet .
+4807	S36_Eggs_7150991-543	f108_i001_a00	19.0	21.0	570	660	opening a fridge .
+4808	S30_Eggs_7150991-1	f79_i007_a00	32.0	34.0	960	1050	taking a spatula from a drawer .
+4809	S29_Eggs_7150991-1	f74_i035_a00	207.0	213.0	6210	6420	putting scrambled eggs on a paper plate .
+4810	S13_Sandwich_7150991-863	f24_i013_a00	80.0	81.0	2400	2460	opening a peanut butter jar .
+4811	S12_Sandwich_7150991-2470	f20_i004_a00	35.0	36.0	1050	1110	closing a fridge .
+4812	S32_Pizza_7150991-1	f89_i043_a00	515.0	536.0	15450	16110	slicing a pepperoni stick on a cutting board with a kitchen knife .
+4813	S11_Salad_7150991-825	f15_i008_a00	82.0	87.0	2460	2640	taking a peeler and a kitchen knife from a drawer .
+4814	S32_Pizza_7150991-1	f89_i034_a00	374.0	377.0	11220	11340	spreading grated cheese on pizza crust .
+4815	S08_Pizza_7150991-563	f06_i005_a00	33.0	37.0	990	1140	taking a baking pan from a base cabinet .
+4816	S47_Eggs_7150991-201	f128_i001_a00	14.0	17.0	420	540	taking a frying pan from a cabinet .
+4817	S30_Eggs_7150991-1	f79_i035_a00	248.0	254.0	7440	7650	putting scrambled eggs on a paper plate .
+4818	S29_Brownie_7150991-1	f73_i000_a00	12.0	20.0	360	630	pressing the buttons on an oven .
+4819	S32_Salad_7150991-1	f90_i017_a00	110.0	127.0	3300	3840	cutting lettuce leaves with a kitchen knife .
+4820	S36_Eggs_7150991-543	f108_i006_a00	42.0	47.0	1260	1440	taking an egg from an egg carton .
+4821	S30_Pizza_7150991-1	f80_i020_a00	217.0	219.0	6510	6600	opening a cabinet .
+4822	S30_Brownie_7150991-1	f78_i044_a00	253.0	254.0	7590	7650	opening a base cabinet .
+4823	S28_Eggs_7150991-1	f69_i001_a00	10.0	14.0	300	450	taking eggs from an egg carton in a fridge .
+4824	S09_Brownie_7150991-1653	f09_i021_a00	144.0	146.0	4320	4410	putting a big measuring cup into a sink .
+4825	S40_Salad_7150991-195	f120_i028_a00	200.0	205.0	6000	6180	putting carrot pieces into a bowl .
+4826	S36_Pizza_7150991-355	f109_i021_a00	207.0	212.0	6210	6390	adjusting the shape of pizza crust .
+4827	S12_Brownie_7150991-1306	f16_i013_a00	93.0	95.0	2790	2880	taking a paper towel from a paper towel roll .
+4828	S07_Brownie_7150991-1431	f00_i033_a00	278.0	279.0	8340	8400	stirring brownie batter with a fork .
+4829	S08_Pizza_7150991-563	f06_i017_a00	142.0	145.0	4260	4380	opening a tomato sauce jar .
+4830	S12_Brownie_7150991-1306	f16_i010_a00	82.0	84.0	2460	2550	putting a cracked eggshell into a sink .
+4831	S32_Pizza_7150991-1	f89_i025_a00	250.0	253.0	7500	7620	cutting the package of a block cheese with a kitchen knife .
+4832	S36_Eggs_7150991-543	f108_i037_a00	437.0	439.0	13110	13200	turning off a gas stove .
+4833	S30_Brownie_7150991-1	f78_i008_a00	39.0	43.0	1170	1320	pouring tap water into a big measuring cup .
+4834	S28_Brownie_7150991-1	f68_i018_a00	100.0	102.0	3000	3090	taking a bag of brownie mix out of a box .
+4835	S12_Brownie_7150991-1306	f16_i006_a00	42.0	48.0	1260	1470	taking a baking pan from a base cabinet .
+4836	S12_Brownie_7150991-1306	f16_i031_a00	213.0	222.0	6390	6690	taking a bag of brownie mix out of a box .
+4837	S36_Pizza_7150991-355	f109_i004_a00	29.0	30.0	870	930	putting ingredients on a counter .
+4838	S47_Eggs_7150991-201	f128_i008_a00	34.0	36.0	1020	1110	putting an oil bottle into a base cabinet .
+4839	S07_Salad_7150991-2095	f03_i005_a00	90.0	92.0	2700	2790	washing lettuce leaves with tap water .
+4840	S28_Eggs_7150991-1	f69_i010_a00	37.0	40.0	1110	1230	pouring oil into a frying pan .
+4841	S29_Sandwich_7150991-1	f77_i007_a00	30.0	32.0	900	990	taking a paper plate from a cabinet .
+4842	S12_Brownie_7150991-1306	f16_i029_a00	190.0	192.0	5700	5790	putting a small measuring cup into a sink .
+4843	S32_Brownie_7150991-1	f87_i016_a00	96.0	100.0	2880	3030	putting a bag of brownie mix into a box .
+4844	S47_Eggs_7150991-201	f128_i010_a00	42.0	44.0	1260	1350	opening a fridge .
+4845	S36_Eggs_7150991-543	f108_i024_a00	179.0	183.0	5370	5520	pouring oil into a frying pan .
+4846	S12_Brownie_7150991-1306	f16_i024_a00	164.0	173.0	4920	5220	pouring oil into a small measuring cup .
+4847	S09_Salad_7150991-1874	f12_i002_a00	24.0	33.0	720	1020	taking ingredients from a fridge .
+4848	S30_Eggs_7150991-1	f79_i026_a00	122.0	124.0	3660	3750	pouring oil into a frying pan .
+4849	S36_Pizza_7150991-355	f109_i031_a00	316.0	326.0	9480	9810	grating a block cheese on a cutting board with a cheese grater .
+4850	S11_Salad_7150991-825	f15_i016_a00	164.0	166.0	4920	5010	putting a carrot into a bag .
+4851	S32_Brownie_7150991-1	f87_i012_a00	69.0	71.0	2070	2160	taking a small measuring cup from a cabinet .
+4852	S30_Pizza_7150991-1	f80_i005_a00	45.0	69.0	1350	2100	peeling off the label of a pizza crust can .
+4853	S29_Eggs_7150991-1	f74_i000_a00	8.0	10.0	240	330	turning on a gas stove .
+4854	S30_Eggs_7150991-1	f79_i022_a00	84.0	89.0	2520	2700	taking a frying pan from a cabinet .
+4855	S12_Sandwich_7150991-2470	f20_i007_a00	41.0	42.0	1230	1290	closing a fridge .
+4856	S09_Salad_7150991-1874	f12_i020_a00	199.0	217.0	5970	6540	cutting a celery stalk with a kitchen knife .
+4857	S32_Brownie_7150991-1	f87_i007_a00	50.0	51.0	1500	1560	opening a fridge .
+4858	S07_Salad_7150991-2095	f03_i013_a00	163.0	176.0	4890	5310	peeling a zucchini with a kitchen knife .
+4859	S07_Pizza_7150991-1884	f02_i007_a00	71.0	82.0	2130	2490	unrolling pizza crust on a baking pan .
+4860	S29_Sandwich_7150991-1	f77_i004_a00	20.0	21.0	600	660	taking a bag of sliced bread from the left of a counter .
+4861	S12_Brownie_7150991-1306	f16_i050_a00	496.0	498.0	14880	14970	opening an oven .
+4862	S12_Sandwich_7150991-2470	f20_i010_a00	60.0	63.0	1800	1920	taking a paper plate from a cabinet .
+4863	S40_Salad_7150991-195	f120_i038_a00	261.0	268.0	7830	8070	pouring dressing on a salad .
+4864	S29_Eggs_7150991-1	f74_i034_a00	202.0	205.0	6060	6180	stirring eggs in a frying pan with a spatula .
+4865	S09_Brownie_7150991-1653	f09_i042_a00	347.0	349.0	10410	10500	shaking a cooking spray .
+4866	S40_Eggs_7150991-185	f118_i013_a00	66.0	69.0	1980	2100	taking an oil bottle from a base cabinet .
+4867	S40_Eggs_7150991-185	f118_i015_a00	74.0	104.0	2220	3150	beating eggs with a whisk .
+4868	S11_Salad_7150991-825	f15_i014_a00	143.0	151.0	4290	4560	peeling a carrot with a peeler .
+4869	S40_Salad_7150991-195	f120_i007_a00	46.0	49.0	1380	1500	removing a white band from a lettuce head .
+4870	S34_Pizza_7150991-240	f99_i016_a00	226.0	229.0	6780	6900	wiping hands with a towel .
+4871	S28_Salad_7150991-1	f71_i033_a00	416.0	418.0	12480	12570	putting a bag of croutons into a base cabinet .
+4872	S30_Pizza_7150991-1	f80_i026_a00	305.0	315.0	9150	9480	squeezing a pepperoni stick out of a package .
+4873	S28_Eggs_7150991-1	f69_i009_a00	35.0	36.0	1050	1110	twisting off an oil bottle cap .
+4874	S29_Eggs_7150991-1	f74_i032_a00	161.0	198.0	4830	5970	stirring eggs in a frying pan with a spatula .
+4875	S30_Brownie_7150991-1	f78_i049_a00	302.0	309.0	9060	9300	putting a baking pan into an oven .
+4876	S09_Pizza_7150991-1072	f11_i029_a00	266.0	268.0	7980	8070	opening a drawer .
+4877	S36_Eggs_7150991-543	f108_i022_a00	172.0	174.0	5160	5250	twisting off an oil bottle cap .
+4878	S30_Pizza_7150991-1	f80_i009_a00	106.0	111.0	3180	3360	peeling off the label of a pizza crust can .
+4879	S30_Brownie_7150991-1	f78_i029_a00	142.0	149.0	4260	4500	piercing a bag of brownie mix with a fork .
+4880	S30_Brownie_7150991-1	f78_i037_a00	223.0	225.0	6690	6780	closing an oven .
+4881	S47_Eggs_7150991-201	f128_i005_a00	24.0	27.0	720	840	twisting off an oil bottle cap .
+4882	S40_Salad_7150991-195	f120_i037_a00	257.0	260.0	7710	7830	twisting off a dressing bottle cap .
+4883	S30_Sandwich_7150991-1	f81_i019_a00	104.0	109.0	3120	3300	opening a peanut butter jar .
+4884	S40_Eggs_7150991-185	f118_i020_a00	120.0	125.0	3600	3780	swirling oil around in a frying pan .
+4885	S32_Pizza_7150991-1	f89_i028_a00	268.0	305.0	8040	9180	grating a block cheese onto pizza crust with a cheese grater .
+4886	S08_Pizza_7150991-563	f06_i001_a00	15.0	21.0	450	660	taking ingredients from a fridge .
+4887	S40_Eggs_7150991-185	f118_i014_a00	70.0	72.0	2100	2190	closing a base cabinet .
+4888	S29_Brownie_7150991-1	f73_i001_a00	22.0	24.0	660	750	taking an egg carton from a fridge .
+4889	S32_Eggs_7150991-1	f88_i012_a00	50.0	52.0	1500	1590	taking a whisk from a drawer .
+4890	S30_Brownie_7150991-1	f78_i000_a00	13.0	14.0	390	450	opening a fridge .
+4891	S30_Sandwich_7150991-1	f81_i023_a00	143.0	146.0	4290	4410	closing a peanut butter jar .
+4892	S07_Salad_7150991-2095	f03_i007_a00	100.0	105.0	3000	3180	taking a carrot out of a bag .
+4893	S32_Salad_7150991-1	f90_i028_a00	310.0	336.0	9300	10110	putting zucchini slices into a bowl .
+4894	S07_Brownie_7150991-1431	f00_i019_a00	126.0	131.0	3780	3960	putting an oil bottle into a base cabinet .
+4895	S09_Brownie_7150991-1653	f09_i051_a00	411.0	413.0	12330	12420	folding a paper towel .
+4896	S30_Pizza_7150991-1	f80_i024_a00	256.0	271.0	7680	8160	squeezing a block cheese out of a package .
+4897	S47_Eggs_7150991-201	f128_i009_a00	38.0	40.0	1140	1230	turning on a gas stove .
+4898	S30_Brownie_7150991-1	f78_i014_a00	65.0	73.0	1950	2220	pouring oil into a small measuring cup .
+4899	S12_Sandwich_7150991-2470	f20_i032_a00	196.0	197.0	5880	5940	closing a fridge .
+4900	S47_Eggs_7150991-201	f128_i033_a00	200.0	211.0	6000	6360	pouring beaten eggs into a frying pan .
+4901	S47_Eggs_7150991-201	f128_i030_a00	143.0	149.0	4290	4500	separating paper plates .
+4902	S13_Sandwich_7150991-863	f24_i000_a00	11.0	12.0	330	390	opening a fridge .
+4903	S32_Pizza_7150991-1	f89_i023_a00	234.0	246.0	7020	7410	trying to open a package of a block cheese .
+4904	S30_Pizza_7150991-1	f80_i023_a00	228.0	249.0	6840	7500	grating a block cheese onto pizza crust with a cheese grater .
+4905	S12_Sandwich_7150991-2470	f20_i031_a00	192.0	194.0	5760	5850	putting jars into a fridge .
+4906	S40_Eggs_7150991-185	f118_i025_a00	155.0	158.0	4650	4770	sprinkling salt on eggs in a big bowl .
+4907	S32_Pizza_7150991-1	f89_i037_a00	415.0	417.0	12450	12540	opening a package of a pepperoni stick .
+4908	S07_Pizza_7150991-1884	f02_i025_a00	214.0	216.0	6420	6510	closing an oven .
+4909	S30_Brownie_7150991-1	f78_i038_a00	226.0	230.0	6780	6930	pressing the buttons on an oven .
+4910	S29_Eggs_7150991-1	f74_i015_a00	57.0	59.0	1710	1800	twisting off an oil bottle cap .
+4911	S32_Salad_7150991-1	f90_i008_a00	53.0	57.0	1590	1740	taking a zucchini out of a bag .
+4912	S30_Brownie_7150991-1	f78_i007_a00	35.0	38.0	1050	1170	taking a big measuring cup from a cabinet .
+4913	S36_Eggs_7150991-543	f108_i009_a00	61.0	65.0	1830	1980	cracking an egg into a big bowl .
+4914	S32_Pizza_7150991-1	f89_i042_a00	505.0	514.0	15150	15450	putting pepperoni slices on pizza crust .
+4915	S28_Eggs_7150991-1	f69_i031_a00	195.0	286.0	5850	8610	stirring eggs in a frying pan with a spatula .
+4916	S09_Brownie_7150991-1653	f09_i004_a00	28.0	31.0	840	960	taking a big measuring cup from a cabinet .
+4917	S07_Pizza_7150991-1884	f02_i013_a00	124.0	142.0	3720	4290	grating a block cheese onto pizza crust with a cheese grater .
+4918	S07_Pizza_7150991-1884	f02_i001_a00	15.0	20.0	450	630	taking a baking pan from a base cabinet .
+4919	S34_Pizza_7150991-240	f99_i013_a00	160.0	163.0	4800	4920	taking a spoon from a drawer .
+4920	S13_Sandwich_7150991-863	f24_i014_a00	83.0	85.0	2490	2580	scooping out peanut butter from a jar with a butter knife .
+4921	S07_Brownie_7150991-1431	f00_i015_a00	100.0	102.0	3000	3090	twisting off an oil bottle cap .
+4922	S30_Pizza_7150991-1	f80_i007_a00	82.0	85.0	2460	2580	taking a kitchen knife from a drawer .
+4923	S36_Pizza_7150991-355	f109_i027_a00	247.0	278.0	7410	8370	grating a block cheese on a cutting board with a cheese grater .
+4924	S07_Pizza_7150991-1884	f02_i003_a00	35.0	38.0	1050	1170	taking ingredients from a fridge .
+4925	S34_Pizza_7150991-240	f99_i038_a00	500.0	502.0	15000	15090	opening an oven .
+4926	S29_Brownie_7150991-1	f73_i004_a00	32.0	35.0	960	1080	taking a big measuring cup from a cabinet .
+4927	S11_Salad_7150991-825	f15_i024_a00	226.0	230.0	6780	6930	putting croutons on a salad .
+4928	S12_Brownie_7150991-1306	f16_i041_a00	417.0	422.0	12510	12690	spraying oil on a baking pan .
+4929	S09_Brownie_7150991-1653	f09_i001_a00	9.0	11.0	270	360	taking a box of brownie mix from a cabinet .
+4930	S36_Eggs_7150991-543	f108_i031_a00	246.0	254.0	7380	7650	pouring beaten eggs into a frying pan with a spatula .
+4931	S28_Eggs_7150991-1	f69_i026_a00	111.0	112.0	3330	3390	putting a salt bottle into a cabinet .
+4932	S30_Sandwich_7150991-1	f81_i006_a00	22.0	24.0	660	750	taking a paper plate from a cabinet .
+4933	S08_Pizza_7150991-563	f06_i012_a00	105.0	111.0	3150	3360	unrolling pizza crust on a baking pan .
+4934	S40_Salad_7150991-195	f120_i020_a00	142.0	143.0	4260	4320	opening a fridge .
+4935	S11_Salad_7150991-825	f15_i030_a00	250.0	255.0	7500	7680	putting a dressing bottle into a fridge .
+4936	S36_Eggs_7150991-543	f108_i018_a00	155.0	159.0	4650	4800	sprinkling pepper on eggs in a big bowl .
+4937	S09_Brownie_7150991-1653	f09_i028_a00	182.0	187.0	5460	5640	pouring brownie mix into a big bowl .
+4938	S30_Brownie_7150991-1	f78_i019_a00	90.0	91.0	2700	2760	closing a cabinet .
+4939	S30_Sandwich_7150991-1	f81_i002_a00	13.0	14.0	390	450	putting a bag of sliced bread on a counter .
+4940	S29_Sandwich_7150991-1	f77_i016_a00	61.0	62.0	1830	1890	scooping out peanut butter from a jar with a butter knife .
+4941	S32_Salad_7150991-1	f90_i026_a00	282.0	291.0	8460	8760	peeling a zucchini with a peeler .
+4942	S32_Brownie_7150991-1	f87_i002_a00	25.0	28.0	750	870	taking a box of brownie mix from a base cabinet .
+4943	S12_Brownie_7150991-1306	f16_i007_a00	59.0	61.0	1770	1860	opening a fridge .
+4944	S11_Salad_7150991-825	f15_i025_a00	231.0	235.0	6930	7080	closing a bag of croutons .
+4945	S09_Brownie_7150991-1653	f09_i005_a00	35.0	38.0	1050	1170	taking an oil bottle from a base cabinet .
+4946	S30_Eggs_7150991-1	f79_i028_a00	127.0	130.0	3810	3930	putting an oil bottle into a base cabinet .
+4947	S12_Sandwich_7150991-2470	f20_i028_a00	180.0	182.0	5400	5490	putting a slice of bread on top of another slice of bread .
+4948	S47_Brownie_7150991-179	f127_i038_a00	249.0	253.0	7470	7620	taking a cap off a cooking spray .
+4949	S29_Salad_7150991-1	f76_i006_a00	50.0	55.0	1500	1680	taking a carrot out of a bag .
+4950	S50_Sandwich_7150991-450	f145_i007_a00	40.0	41.0	1200	1260	opening a blueberry jam jar .
+4951	S24_Brownie_7150991-483	f62_i036_a00	391.0	400.0	11730	12030	pressing the buttons on an oven .
+4952	S25_Brownie_7150991-763	f63_i027_a00	262.0	296.0	7860	8910	pouring brownie batter into a baking pan with a spoon .
+4953	S22_Pizza_7150991-664	f59_i026_a00	352.0	357.0	10560	10740	opening a package of a block cheese .
+4954	S34_Brownie_7150991-268	f97_i035_a00	173.0	261.0	5190	7860	mixing the ingredients of brownie in a big bowl with a whisk .
+4955	S15_Pizza_7150991-5341	f31_i021_a00	257.0	264.0	7710	7950	putting trash and kitchen utensils into a sink .
+4956	S20_Sandwich_7150991-1256	f57_i006_a00	41.0	43.0	1230	1320	putting a slice of bread into a bag .
+4957	S54_Salad_7150991-223	f159_i019_a00	192.0	206.0	5760	6210	cutting a carrot with a kitchen knife .
+4958	S15_Sandwich_7150991-200	f33_i009_a00	31.0	34.0	930	1050	taking a butter knife from a drawer .
+4959	S34_Brownie_7150991-268	f97_i008_a00	40.0	41.0	1200	1260	opening a fridge .
+4960	S17_Eggs_7150991-1187	f40_i009_a00	45.0	46.0	1350	1410	opening a fridge .
+4961	S54_Brownie_7150991-308	f156_i049_a00	352.0	371.0	10560	11160	pouring brownie batter into a baking pan with a spoon .
+4962	S22_Pizza_7150991-664	f59_i030_a00	493.0	600.0	14790	18030	grating a block cheese onto pizza crust with a cheese grater .
+4963	S19_Pizza_7150991-399	f50_i043_a00	654.0	657.0	19620	19740	closing a package of a pepperoni stick .
+4964	S16_Salad_7150991-1308	f37_i010_a00	126.0	136.0	3780	4110	putting celery stalk slices into a bowl .
+4965	S18_Sandwich_7150991-893	f47_i014_a00	84.0	98.0	2520	2970	spreading blueberry jam on a slice of bread with a butter knife .
+4966	S53_Salad_7150991-143	f154_i005_a00	29.0	30.0	870	930	moving a cutting board closer .
+4967	S41_Sandwich_7150991-286	f126_i025_a00	115.0	117.0	3450	3540	closing a peanut butter jar .
+4968	S15_Sandwich_7150991-200	f33_i023_a00	77.0	78.0	2310	2370	closing a fridge .
+4969	S34_Eggs_7150991-149	f98_i033_a00	229.0	233.0	6870	7020	stirring eggs in a frying pan with a spatula .
+4970	S54_Salad_7150991-223	f159_i025_a00	259.0	267.0	7770	8040	taking a celery stalk out of a bag .
+4971	S36_Sandwich_7150991-165	f111_i003_a00	18.0	20.0	540	630	putting a bag of sliced bread on a counter .
+4972	S22_Pizza_7150991-664	f59_i005_a00	24.0	26.0	720	810	putting ingredients on a counter .
+4973	S28_Pizza_7150991-1	f70_i024_a00	263.0	265.0	7890	7980	taking a kitchen knife from a drawer .
+4974	S13_Eggs_7150991-1728	f22_i034_a00	216.0	224.0	6480	6750	spraying oil on a frying pan .
+4975	S31_Brownie_7150991-1	f82_i024_a00	218.0	224.0	6540	6750	taking a box of brownie mix from a base cabinet .
+4976	S11_Eggs_7150991-1247	f13_i019_a00	87.0	88.0	2610	2670	putting a salt bottle into a cabinet .
+4977	S49_Sandwich_7150991-511	f140_i004_a00	24.0	29.0	720	900	taking a bag of sliced bread from a fridge .
+4978	S20_Eggs_7150991-511	f54_i005_a00	25.0	33.0	750	1020	taking an egg from an egg carton in a fridge .
+4979	S22_Pizza_7150991-664	f59_i044_a00	740.0	745.0	22200	22380	cutting a pepperoni slice into pieces with a kitchen knife .
+4980	S16_Pizza_7150991-3739	f36_i014_a00	111.0	113.0	3330	3420	flipping pizza crust .
+4981	S29_Pizza_7150991-1	f75_i019_a00	179.0	183.0	5370	5520	opening a package of a block cheese .
+4982	S15_Eggs_7150991-424	f30_i012_a00	46.0	48.0	1380	1470	taking seasonings from a cabinet .
+4983	S50_Salad_7150991-243	f144_i004_a00	31.0	36.0	930	1110	taking a cutting board from the corner of a counter .
+4984	S32_Sandwich_7150991-1	f91_i024_a00	126.0	129.0	3780	3900	putting a slice of bread on top of another slice of bread .
+4985	S40_Brownie_7150991-288	f117_i037_a00	228.0	230.0	6840	6930	pouring brownie mix into a big bowl .
+4986	S19_Brownie_7150991-848	f48_i021_a00	143.0	150.0	4290	4530	cutting the bag of brownie mix with scissors .
+4987	S11_Pizza_7150991-2116	f14_i031_a00	268.0	283.0	8040	8520	slicing a pepperoni stick with a kitchen knife .
+4988	S31_Brownie_7150991-1	f82_i033_a00	395.0	398.0	11850	11970	taking a cooking spray from a base cabinet .
+4989	S51_Pizza_7150991-323	f148_i036_a00	475.0	478.0	14250	14370	putting ingredients into a fridge .
+4990	S51_Pizza_7150991-323	f148_i031_a00	425.0	439.0	12750	13200	putting pepperoni slices on pizza crust .
+4991	S51_Eggs_7150991-512	f147_i017_a00	78.0	82.0	2340	2490	cracking an egg into a big bowl .
+4992	S07_Sandwich_7150991-2343	f04_i022_a00	166.0	169.0	4980	5100	putting jars into a fridge .
+4993	S50_Salad_7150991-243	f144_i034_a00	411.0	417.0	12330	12540	pouring dressing on a salad .
+4994	S35_Salad_7150991-146	f105_i024_a00	155.0	163.0	4650	4920	tying a bag of carrots .
+4995	S17_Brownie_7150991-1231	f39_i038_a00	372.0	374.0	11160	11250	opening an oven .
+4996	S22_Brownie_7150991-921	f58_i018_a00	151.0	154.0	4530	4650	twisting off an oil bottle cap .
+4997	S49_Sandwich_7150991-511	f140_i017_a00	127.0	145.0	3810	4380	spreading peanut butter on a slice of bread with a butter knife .
+4998	S13_Eggs_7150991-1728	f22_i017_a00	101.0	109.0	3030	3300	beating an egg with a spoon .
+4999	S47_Salad_7150991-196	f130_i041_a00	337.0	343.0	10110	10320	pouring dressing on a salad .
+5000	S11_Pizza_7150991-2116	f14_i014_a00	80.0	91.0	2400	2760	wringing a pizza crust can with hands .
+5001	S16_Brownie_7150991-1431	f34_i006_a00	29.0	30.0	870	930	opening a base cabinet .
