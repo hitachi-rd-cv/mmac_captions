@@ -2,7 +2,7 @@
 
 by [Katsuyuki Nakamura](https://scholar.google.com/citations?user=ZIxQ5zAAAAAJ&hl=en), [Hiroki Ohashi](https://scholar.google.com/citations?user=GKC6bbYAAAAJ), and Mitsuhiro Okada.
 
-This repository contains the dataset of the paper "[Sensor-Augmented Egocentric-Video Captioning with Dynamic Modal Attention](https://arxiv.org/abs/2109.02955)", which is accepted to ACMMM2021.
+This repository contains the dataset of the paper "[Sensor-Augmented Egocentric-Video Captioning with Dynamic Modal Attention](https://dl.acm.org/doi/10.1145/3474085.3475557)", which is accepted to ACMMM2021.
 
 
 
